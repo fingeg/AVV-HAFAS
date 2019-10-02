@@ -18,8 +18,10 @@ class ParseLine:
         self.stopsNetwork.stops[code].setCoordinates(x, y)
 
     def umsteigb(self, attributes):
-        code = attributes[0]
-        if not code == '9999999':
+        codes = [attributes[0]]
+        if codes[0] == '9999999':
+            codes = self.stopsNetwork.stops.keys()
+        for code in codes:
             changeTime = int(attributes[2])
             self.stopsNetwork.stops[code].changeTimes['normal'] = changeTime
     
@@ -32,7 +34,8 @@ class ParseLine:
         if not isGlobal:
             self.stopsNetwork.stops[code].changeTimes['operation']['%s:%s' % (v1, v2)] = changeTime
         else:
-            self.stopsNetwork.globalChangeTimes['%s:%s' % (v1, v2)] = changeTime
+            for code in self.stopsNetwork.stops.keys():
+                self.stopsNetwork.stops[code].changeTimes['operation']['%s:%s' % (v1, v2)] = changeTime
     
     def umsteigl(self, attributes):
         code = attributes[0]
@@ -66,6 +69,16 @@ class ParseLine:
             self.stopsNetwork.stops[code1].footPaths[code2] = time
             self.stopsNetwork.stops[code2].footPaths[code1] = time
 
-
-
-
+    def bhfart(self, attributes):
+        atrType = attributes[1]
+        codes = [attributes[0]]
+        if codes[0] == '@@@@@@@':
+            codes = self.stopsNetwork.stops.keys()
+        for code in codes:
+            stop = self.stopsNetwork.stops[code]
+            if atrType == 'B':
+                selectingMode = '%03d' % int(bin(int(attributes[2])).replace('0b', ''))
+                routingMode = '%03d' % int(bin(int(attributes[3])).replace('0b', ''))
+                stop.selectingMode = [selectingMode[0] == '0', selectingMode[1] == '0', selectingMode[2] == '0']
+                stop.routingMode = [routingMode[0] == '0', routingMode[1] == '0', routingMode[2] == '0']
+        # TODO: Add all other attributes

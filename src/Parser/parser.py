@@ -12,6 +12,7 @@ def parse(directory):
     parseFile(directory + '\\umsteigl', parser.umsteigl, 'line change times')
     parseFile(directory + '\\umsteigz', parser.umsteigz, 'track change times')
     parseFile(directory + '\\metabf', parser.metabf, 'footpaths')
+    parseFile(directory + '\\bhfart', parser.bhfart, 'stops modes')
     print('Finished parsing')
 
 def parseFile(fileName, parser, log):
