@@ -36,6 +36,9 @@ class BusStop:
         self.selectingMode = [True, True, True]  # [Start, Aim, Via]
         self.routingMode = [True, True, True]  # [Start, Aim, Via]
 
+        # Define the priority of this bus stop for changing the bus (highest=0, lowest=16)
+        self.priority = 8
+
 
     def addLine(self, line):
         self.lines.append(line)

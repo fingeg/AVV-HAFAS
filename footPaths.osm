@@ -1,0 +1,4243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+         <osm version="0.6" generator="CGImap 0.0.2">         <bounds minlat="50.510054" minlon="5.859465" maxlat="51.678864" maxlon="8.016915"/>
+	<way id="14711476" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001471"/>
+		<nd ref="00001476"/>
+		<tag k="Aachen, Kornelimünster Steinkaulplatz" v="foot_way"/>
+	</way>
+	<way id="14751476" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001475"/>
+		<nd ref="00001476"/>
+		<tag k="Aachen, Kornelimünster Steinkaulplatz" v="foot_way"/>
+	</way>
+	<way id="21132114" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002113"/>
+		<nd ref="00002114"/>
+		<tag k="Baesweiler, Loverich Bäckerei" v="foot_way"/>
+	</way>
+	<way id="10991109" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001099"/>
+		<nd ref="00001109"/>
+		<tag k="Aachen, Viktoriaallee" v="foot_way"/>
+	</way>
+	<way id="10081005" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001008"/>
+		<nd ref="00001005"/>
+		<tag k="Aachen, Misereor" v="foot_way"/>
+	</way>
+	<way id="10081007" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001008"/>
+		<nd ref="00001007"/>
+		<tag k="Aachen, Hauptbahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="10151014" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001015"/>
+		<nd ref="00001014"/>
+		<tag k="Aachen, Schanz (Vaalser Straße)" v="foot_way"/>
+	</way>
+	<way id="10161014" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001016"/>
+		<nd ref="00001014"/>
+		<tag k="Aachen, Schanz (Vaalser Straße)" v="foot_way"/>
+	</way>
+	<way id="10141015" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001014"/>
+		<nd ref="00001015"/>
+		<tag k="Aachen, Schanz (Jakobstraße)" v="foot_way"/>
+	</way>
+	<way id="10161015" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001016"/>
+		<nd ref="00001015"/>
+		<tag k="Aachen, Schanz (Jakobstraße)" v="foot_way"/>
+	</way>
+	<way id="10081061" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001008"/>
+		<nd ref="00001061"/>
+		<tag k="Aachen, Wallstraße" v="foot_way"/>
+	</way>
+	<way id="10741073" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001074"/>
+		<nd ref="00001073"/>
+		<tag k="Aachen, Carolus Thermen" v="foot_way"/>
+	</way>
+	<way id="10791073" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001079"/>
+		<nd ref="00001073"/>
+		<tag k="Aachen, Carolus Thermen" v="foot_way"/>
+	</way>
+	<way id="10731079" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001073"/>
+		<nd ref="00001079"/>
+		<tag k="Aachen, Ungarnplatz (Carolus Thermen)" v="foot_way"/>
+	</way>
+	<way id="10741079" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001074"/>
+		<nd ref="00001079"/>
+		<tag k="Aachen, Ungarnplatz (Carolus Thermen)" v="foot_way"/>
+	</way>
+	<way id="10841083" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001084"/>
+		<nd ref="00001083"/>
+		<tag k="Aachen, Bendplatz" v="foot_way"/>
+	</way>
+	<way id="10841085" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001084"/>
+		<nd ref="00001085"/>
+		<tag k="Aachen, Westbahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="10861085" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001086"/>
+		<nd ref="00001085"/>
+		<tag k="Aachen, Westbahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="10931091" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001093"/>
+		<nd ref="00001091"/>
+		<tag k="Aachen, Laurensberg Kackertstraße" v="foot_way"/>
+	</way>
+	<way id="15251091" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001525"/>
+		<nd ref="00001091"/>
+		<tag k="Aachen, Laurensberg Kackertstraße" v="foot_way"/>
+	</way>
+	<way id="10911093" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001091"/>
+		<nd ref="00001093"/>
+		<tag k="Aachen, Süsterau" v="foot_way"/>
+	</way>
+	<way id="11091099" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001109"/>
+		<nd ref="00001099"/>
+		<tag k="Aachen, Josefskirche (Justizzentrum)" v="foot_way"/>
+	</way>
+	<way id="13871167" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001387"/>
+		<nd ref="00001167"/>
+		<tag k="Aachen, Schillerstraße" v="foot_way"/>
+	</way>
+	<way id="11871169" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001187"/>
+		<nd ref="00001169"/>
+		<tag k="Aachen, Burtscheid" v="foot_way"/>
+	</way>
+	<way id="11871175" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001187"/>
+		<nd ref="00001175"/>
+		<tag k="Aachen, Habsburgerallee" v="foot_way"/>
+	</way>
+	<way id="11691187" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001169"/>
+		<nd ref="00001187"/>
+		<tag k="Aachen, Burtscheid Sebastianstraße" v="foot_way"/>
+	</way>
+	<way id="11751187" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001175"/>
+		<nd ref="00001187"/>
+		<tag k="Aachen, Burtscheid Sebastianstraße" v="foot_way"/>
+	</way>
+	<way id="12101209" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001210"/>
+		<nd ref="00001209"/>
+		<tag k="Aachen, Eich" v="foot_way"/>
+	</way>
+	<way id="12091210" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001209"/>
+		<nd ref="00001210"/>
+		<tag k="Aachen, Eich (Schulbus)" v="foot_way"/>
+	</way>
+	<way id="12601264" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001260"/>
+		<nd ref="00001264"/>
+		<tag k="Aachen, Eilendorf Bahnhof (Wolfsbendenstraße)" v="foot_way"/>
+	</way>
+	<way id="12901279" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001290"/>
+		<nd ref="00001279"/>
+		<tag k="Aachen, Eilendorf Rheingold" v="foot_way"/>
+	</way>
+	<way id="12601283" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001260"/>
+		<nd ref="00001283"/>
+		<tag k="Aachen, Eilendorf Hansmannstraße" v="foot_way"/>
+	</way>
+	<way id="12601287" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001260"/>
+		<nd ref="00001287"/>
+		<tag k="Aachen, Eilendorf Stapperstraße" v="foot_way"/>
+	</way>
+	<way id="12791290" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001279"/>
+		<nd ref="00001290"/>
+		<tag k="Aachen, Eilendorf Freunder Straße" v="foot_way"/>
+	</way>
+	<way id="17351320" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001735"/>
+		<nd ref="00001320"/>
+		<tag k="Aachen, Philipp-Neri-Weg" v="foot_way"/>
+	</way>
+	<way id="13381337" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001338"/>
+		<nd ref="00001337"/>
+		<tag k="Aachen, Debyestraße" v="foot_way"/>
+	</way>
+	<way id="14611363" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001461"/>
+		<nd ref="00001363"/>
+		<tag k="Aachen, Prager Ring" v="foot_way"/>
+	</way>
+	<way id="13731371" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001373"/>
+		<nd ref="00001371"/>
+		<tag k="Aachen, Haaren Birkenweg" v="foot_way"/>
+	</way>
+	<way id="13711373" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001371"/>
+		<nd ref="00001373"/>
+		<tag k="Aachen, Haaren Denkmal" v="foot_way"/>
+	</way>
+	<way id="11671387" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001167"/>
+		<nd ref="00001387"/>
+		<tag k="Aachen, Barbarossaplatz" v="foot_way"/>
+	</way>
+	<way id="16251389" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001625"/>
+		<nd ref="00001389"/>
+		<tag k="Aachen, Couven-Gymnasium" v="foot_way"/>
+	</way>
+	<way id="14031393" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001403"/>
+		<nd ref="00001393"/>
+		<tag k="Aachen, Hanbruch Schwimmhalle West Ulla-Klinger-H." v="foot_way"/>
+	</way>
+	<way id="14001399" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001400"/>
+		<nd ref="00001399"/>
+		<tag k="Aachen, Kuckelkorn" v="foot_way"/>
+	</way>
+	<way id="14051399" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001405"/>
+		<nd ref="00001399"/>
+		<tag k="Aachen, Kuckelkorn" v="foot_way"/>
+	</way>
+	<way id="13991400" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001399"/>
+		<nd ref="00001400"/>
+		<tag k="Aachen, Weststraße" v="foot_way"/>
+	</way>
+	<way id="13931403" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001393"/>
+		<nd ref="00001403"/>
+		<tag k="Aachen, Venskyhäuschen" v="foot_way"/>
+	</way>
+	<way id="13991405" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001399"/>
+		<nd ref="00001405"/>
+		<tag k="Aachen, Welkenrather Straße" v="foot_way"/>
+	</way>
+	<way id="14271421" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001427"/>
+		<nd ref="00001421"/>
+		<tag k="Aachen, Auf der Hörn" v="foot_way"/>
+	</way>
+	<way id="14351421" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001435"/>
+		<nd ref="00001421"/>
+		<tag k="Aachen, Auf der Hörn" v="foot_way"/>
+	</way>
+	<way id="14211427" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001421"/>
+		<nd ref="00001427"/>
+		<tag k="Aachen, Halifaxstraße" v="foot_way"/>
+	</way>
+	<way id="14311429" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001431"/>
+		<nd ref="00001429"/>
+		<tag k="Aachen, Hörn Kastanienweg" v="foot_way"/>
+	</way>
+	<way id="14291431" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001429"/>
+		<nd ref="00001431"/>
+		<tag k="Aachen, Hörn Brücke" v="foot_way"/>
+	</way>
+	<way id="14211435" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001421"/>
+		<nd ref="00001435"/>
+		<tag k="Aachen, Hörnstieg" v="foot_way"/>
+	</way>
+	<way id="14451435" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001445"/>
+		<nd ref="00001435"/>
+		<tag k="Aachen, Hörnstieg" v="foot_way"/>
+	</way>
+	<way id="14451441" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001445"/>
+		<nd ref="00001441"/>
+		<tag k="Aachen, Mies-van-der-Rohe-Straße" v="foot_way"/>
+	</way>
+	<way id="14351445" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001435"/>
+		<nd ref="00001445"/>
+		<tag k="Aachen, Seffenter Weg" v="foot_way"/>
+	</way>
+	<way id="14411445" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001441"/>
+		<nd ref="00001445"/>
+		<tag k="Aachen, Seffenter Weg" v="foot_way"/>
+	</way>
+	<way id="14651457" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001465"/>
+		<nd ref="00001457"/>
+		<tag k="Aachen, Hüls Friedhof" v="foot_way"/>
+	</way>
+	<way id="13631461" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001363"/>
+		<nd ref="00001461"/>
+		<tag k="Aachen, Hüls Schulzentrum" v="foot_way"/>
+	</way>
+	<way id="14571465" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001457"/>
+		<nd ref="00001465"/>
+		<tag k="Aachen, Wilmersdorfer Straße" v="foot_way"/>
+	</way>
+	<way id="14751471" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001475"/>
+		<nd ref="00001471"/>
+		<tag k="Aachen, Kornelimünster Schulberg" v="foot_way"/>
+	</way>
+	<way id="14761471" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001476"/>
+		<nd ref="00001471"/>
+		<tag k="Aachen, Kornelimünster Schulberg" v="foot_way"/>
+	</way>
+	<way id="14711475" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001471"/>
+		<nd ref="00001475"/>
+		<tag k="Aachen, Kornelimünster Napoleonsberg (Eifelsteig)" v="foot_way"/>
+	</way>
+	<way id="14761475" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001476"/>
+		<nd ref="00001475"/>
+		<tag k="Aachen, Kornelimünster Napoleonsberg (Eifelsteig)" v="foot_way"/>
+	</way>
+	<way id="13381489" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001338"/>
+		<nd ref="00001489"/>
+		<tag k="Aachen, Königsberger Straße" v="foot_way"/>
+	</way>
+	<way id="15001499" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001500"/>
+		<nd ref="00001499"/>
+		<tag k="Aachen, Laurensberg Schulzentrum" v="foot_way"/>
+	</way>
+	<way id="14991500" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001499"/>
+		<nd ref="00001500"/>
+		<tag k="Aachen, Laurensberg Schulzentrum (Parkplatz)" v="foot_way"/>
+	</way>
+	<way id="15161515" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001516"/>
+		<nd ref="00001515"/>
+		<tag k="Aachen, Laurensberg Rahe Im Ring" v="foot_way"/>
+	</way>
+	<way id="15151516" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001515"/>
+		<nd ref="00001516"/>
+		<tag k="Aachen, Laurensberg Am Beulardstein" v="foot_way"/>
+	</way>
+	<way id="10911525" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001091"/>
+		<nd ref="00001525"/>
+		<tag k="Aachen, Laurensberg Wildbach" v="foot_way"/>
+	</way>
+	<way id="15451541" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001545"/>
+		<nd ref="00001541"/>
+		<tag k="Aachen, Oberforstbach Laschet" v="foot_way"/>
+	</way>
+	<way id="15411545" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001541"/>
+		<nd ref="00001545"/>
+		<tag k="Aachen, Lichtenbusch Erlenpütz" v="foot_way"/>
+	</way>
+	<way id="15541553" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001554"/>
+		<nd ref="00001553"/>
+		<tag k="Aachen, Nütheim" v="foot_way"/>
+	</way>
+	<way id="15531554" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001553"/>
+		<nd ref="00001554"/>
+		<tag k="Aachen, Nütheim Hundskaulweg" v="foot_way"/>
+	</way>
+	<way id="15651563" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001565"/>
+		<nd ref="00001563"/>
+		<tag k="Aachen, Schleckheim Aachener Straße" v="foot_way"/>
+	</way>
+	<way id="15671563" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001567"/>
+		<nd ref="00001563"/>
+		<tag k="Aachen, Schleckheim Aachener Straße" v="foot_way"/>
+	</way>
+	<way id="15631565" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001563"/>
+		<nd ref="00001565"/>
+		<tag k="Aachen, Schleckheim Kapelle" v="foot_way"/>
+	</way>
+	<way id="15671565" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001567"/>
+		<nd ref="00001565"/>
+		<tag k="Aachen, Schleckheim Kapelle" v="foot_way"/>
+	</way>
+	<way id="15631567" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001563"/>
+		<nd ref="00001567"/>
+		<tag k="Aachen, Schleckheim SCHUMAG" v="foot_way"/>
+	</way>
+	<way id="15651567" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001565"/>
+		<nd ref="00001567"/>
+		<tag k="Aachen, Schleckheim SCHUMAG" v="foot_way"/>
+	</way>
+	<way id="15871583" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001587"/>
+		<nd ref="00001583"/>
+		<tag k="Aachen, Entenpfuhler Weg" v="foot_way"/>
+	</way>
+	<way id="15851584" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001585"/>
+		<nd ref="00001584"/>
+		<tag k="Aachen, Montzener Straße" v="foot_way"/>
+	</way>
+	<way id="15841585" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001584"/>
+		<nd ref="00001585"/>
+		<tag k="Aachen, Preuswald" v="foot_way"/>
+	</way>
+	<way id="15901585" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001590"/>
+		<nd ref="00001585"/>
+		<tag k="Aachen, Preuswald" v="foot_way"/>
+	</way>
+	<way id="15831587" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001583"/>
+		<nd ref="00001587"/>
+		<tag k="Aachen, Reimser Straße" v="foot_way"/>
+	</way>
+	<way id="15851590" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001585"/>
+		<nd ref="00001590"/>
+		<tag k="Aachen, Walhorner Straße" v="foot_way"/>
+	</way>
+	<way id="16211598" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001621"/>
+		<nd ref="00001598"/>
+		<tag k="Aachen, Richterich Hasenwaldstraße" v="foot_way"/>
+	</way>
+	<way id="16151611" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001615"/>
+		<nd ref="00001611"/>
+		<tag k="Aachen, Richterich Roder Weg" v="foot_way"/>
+	</way>
+	<way id="16111615" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001611"/>
+		<nd ref="00001615"/>
+		<tag k="Aachen, Richterich Schönauer Friede" v="foot_way"/>
+	</way>
+	<way id="16211617" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001621"/>
+		<nd ref="00001617"/>
+		<tag k="Aachen, Richterich Schönauer Hang" v="foot_way"/>
+	</way>
+	<way id="15981621" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001598"/>
+		<nd ref="00001621"/>
+		<tag k="Aachen, Richterich Siedlung Schönau" v="foot_way"/>
+	</way>
+	<way id="16171621" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001617"/>
+		<nd ref="00001621"/>
+		<tag k="Aachen, Richterich Siedlung Schönau" v="foot_way"/>
+	</way>
+	<way id="13891625" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001389"/>
+		<nd ref="00001625"/>
+		<tag k="Aachen, Goethestraße (Hangeweiher)" v="foot_way"/>
+	</way>
+	<way id="16371629" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001637"/>
+		<nd ref="00001629"/>
+		<tag k="Aachen, Colynshof" v="foot_way"/>
+	</way>
+	<way id="16411635" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001641"/>
+		<nd ref="00001635"/>
+		<tag k="Aachen, Maria-Theresia-Allee" v="foot_way"/>
+	</way>
+	<way id="16291637" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001629"/>
+		<nd ref="00001637"/>
+		<tag k="Aachen, Ronheide (Jugendherberge)" v="foot_way"/>
+	</way>
+	<way id="17131640" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001713"/>
+		<nd ref="00001640"/>
+		<tag k="Aachen, Pius-Gymnasium" v="foot_way"/>
+	</way>
+	<way id="17151640" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001715"/>
+		<nd ref="00001640"/>
+		<tag k="Aachen, Pius-Gymnasium" v="foot_way"/>
+	</way>
+	<way id="16351641" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001635"/>
+		<nd ref="00001641"/>
+		<tag k="Aachen, Yorckstraße" v="foot_way"/>
+	</way>
+	<way id="16461645" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001646"/>
+		<nd ref="00001645"/>
+		<tag k="Aachen, Bahnhof Rothe Erde (Bus)" v="foot_way"/>
+	</way>
+	<way id="16531647" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001653"/>
+		<nd ref="00001647"/>
+		<tag k="Aachen, Am Rott" v="foot_way"/>
+	</way>
+	<way id="16471653" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001647"/>
+		<nd ref="00001653"/>
+		<tag k="Aachen, Dresdener Straße" v="foot_way"/>
+	</way>
+	<way id="16461655" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001646"/>
+		<nd ref="00001655"/>
+		<tag k="Aachen, Elsassstraße" v="foot_way"/>
+	</way>
+	<way id="16811675" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001681"/>
+		<nd ref="00001675"/>
+		<tag k="Aachen, Schmithof Ardennenstraße" v="foot_way"/>
+	</way>
+	<way id="16751681" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001675"/>
+		<nd ref="00001681"/>
+		<tag k="Aachen, Schmithof Kirche" v="foot_way"/>
+	</way>
+	<way id="16851681" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001685"/>
+		<nd ref="00001681"/>
+		<tag k="Aachen, Schmithof Kirche" v="foot_way"/>
+	</way>
+	<way id="16811685" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001681"/>
+		<nd ref="00001685"/>
+		<tag k="Aachen, Schmithof Schmithofer Straße" v="foot_way"/>
+	</way>
+	<way id="16871685" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001687"/>
+		<nd ref="00001685"/>
+		<tag k="Aachen, Schmithof Schmithofer Straße" v="foot_way"/>
+	</way>
+	<way id="16851687" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001685"/>
+		<nd ref="00001687"/>
+		<tag k="Aachen, Sief Radermacher" v="foot_way"/>
+	</way>
+	<way id="16401713" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001640"/>
+		<nd ref="00001713"/>
+		<tag k="Aachen, Giselastraße" v="foot_way"/>
+	</way>
+	<way id="16401715" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001640"/>
+		<nd ref="00001715"/>
+		<tag k="Aachen, Goldbachstraße" v="foot_way"/>
+	</way>
+	<way id="17451733" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001745"/>
+		<nd ref="00001733"/>
+		<tag k="Aachen, Vaalserquartier Püngelerstraße" v="foot_way"/>
+	</way>
+	<way id="13201735" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001320"/>
+		<nd ref="00001735"/>
+		<tag k="Aachen, Reutershag" v="foot_way"/>
+	</way>
+	<way id="17331745" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001733"/>
+		<nd ref="00001745"/>
+		<tag k="Aachen, Vaalserquartier Vaals Grenze" v="foot_way"/>
+	</way>
+	<way id="60151745" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006015"/>
+		<nd ref="00001745"/>
+		<tag k="Aachen, Vaalserquartier Vaals Grenze" v="foot_way"/>
+	</way>
+	<way id="60251745" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006025"/>
+		<nd ref="00001745"/>
+		<tag k="Aachen, Vaalserquartier Vaals Grenze" v="foot_way"/>
+	</way>
+	<way id="17701757" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001770"/>
+		<nd ref="00001757"/>
+		<tag k="Aachen, Walheim Albert-Einstein-Straße" v="foot_way"/>
+	</way>
+	<way id="17571770" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001757"/>
+		<nd ref="00001770"/>
+		<tag k="Aachen, Walheim Kirchberg" v="foot_way"/>
+	</way>
+	<way id="17791770" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001779"/>
+		<nd ref="00001770"/>
+		<tag k="Aachen, Walheim Kirchberg" v="foot_way"/>
+	</way>
+	<way id="17701779" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001770"/>
+		<nd ref="00001779"/>
+		<tag k="Aachen, Walheim Prämienstraße" v="foot_way"/>
+	</way>
+	<way id="18211809" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001821"/>
+		<nd ref="00001809"/>
+		<tag k="Aldenhoven, Abzw. Niedermerz" v="foot_way"/>
+	</way>
+	<way id="18091821" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001809"/>
+		<nd ref="00001821"/>
+		<tag k="Aldenhoven, Niedermerz Ortsmitte" v="foot_way"/>
+	</way>
+	<way id="18651843" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001865"/>
+		<nd ref="00001843"/>
+		<tag k="Alsdorf, Im Brühl Kirche" v="foot_way"/>
+	</way>
+	<way id="18731843" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001873"/>
+		<nd ref="00001843"/>
+		<tag k="Alsdorf, Im Brühl Kirche" v="foot_way"/>
+	</way>
+	<way id="18481847" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001848"/>
+		<nd ref="00001847"/>
+		<tag k="Alsdorf, Im Brühl" v="foot_way"/>
+	</way>
+	<way id="18571855" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001857"/>
+		<nd ref="00001855"/>
+		<tag k="Alsdorf, Martinstraße" v="foot_way"/>
+	</way>
+	<way id="18551857" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001855"/>
+		<nd ref="00001857"/>
+		<tag k="Alsdorf, Saarstraße" v="foot_way"/>
+	</way>
+	<way id="20371859" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002037"/>
+		<nd ref="00001859"/>
+		<tag k="Alsdorf, Sportplatz" v="foot_way"/>
+	</way>
+	<way id="18431865" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001843"/>
+		<nd ref="00001865"/>
+		<tag k="Alsdorf, Cäcilienstraße" v="foot_way"/>
+	</way>
+	<way id="18731865" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001873"/>
+		<nd ref="00001865"/>
+		<tag k="Alsdorf, Cäcilienstraße" v="foot_way"/>
+	</way>
+	<way id="18431873" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001843"/>
+		<nd ref="00001873"/>
+		<tag k="Alsdorf, Schaufenberger Straße" v="foot_way"/>
+	</way>
+	<way id="18651873" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001865"/>
+		<nd ref="00001873"/>
+		<tag k="Alsdorf, Schaufenberger Straße" v="foot_way"/>
+	</way>
+	<way id="18931887" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001893"/>
+		<nd ref="00001887"/>
+		<tag k="Alsdorf, Siedlung Ost" v="foot_way"/>
+	</way>
+	<way id="18951891" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001895"/>
+		<nd ref="00001891"/>
+		<tag k="Alsdorf, Leidesheimer Weiden" v="foot_way"/>
+	</way>
+	<way id="18871893" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001887"/>
+		<nd ref="00001893"/>
+		<tag k="Alsdorf, Siedlung Ost Pommernstraße" v="foot_way"/>
+	</way>
+	<way id="18911895" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001891"/>
+		<nd ref="00001895"/>
+		<tag k="Alsdorf, Schaufenberg Am Kreuzberg" v="foot_way"/>
+	</way>
+	<way id="19001899" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001900"/>
+		<nd ref="00001899"/>
+		<tag k="Alsdorf, Siedlung Ost Schweriner Straße" v="foot_way"/>
+	</way>
+	<way id="19121911" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001912"/>
+		<nd ref="00001911"/>
+		<tag k="Alsdorf, Bettendorf" v="foot_way"/>
+	</way>
+	<way id="19161915" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001916"/>
+		<nd ref="00001915"/>
+		<tag k="Alsdorf, Begau Bahnübergang" v="foot_way"/>
+	</way>
+	<way id="19161917" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001916"/>
+		<nd ref="00001917"/>
+		<tag k="Alsdorf, Blumenrath Albert-Schweitzer-Straße" v="foot_way"/>
+	</way>
+	<way id="19161918" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001916"/>
+		<nd ref="00001918"/>
+		<tag k="Alsdorf, Blumenrath Montanstr./Poststr." v="foot_way"/>
+	</way>
+	<way id="19911918" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001991"/>
+		<nd ref="00001918"/>
+		<tag k="Alsdorf, Blumenrath Montanstr./Poststr." v="foot_way"/>
+	</way>
+	<way id="19241923" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001924"/>
+		<nd ref="00001923"/>
+		<tag k="Alsdorf, Busch Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="19241925" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001924"/>
+		<nd ref="00001925"/>
+		<tag k="Alsdorf, Busch Kirche" v="foot_way"/>
+	</way>
+	<way id="19241927" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001924"/>
+		<nd ref="00001927"/>
+		<tag k="Alsdorf, Busch Mittelplatz" v="foot_way"/>
+	</way>
+	<way id="19351931" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001935"/>
+		<nd ref="00001931"/>
+		<tag k="Alsdorf, Duffesheide" v="foot_way"/>
+	</way>
+	<way id="19311935" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001931"/>
+		<nd ref="00001935"/>
+		<tag k="Alsdorf, Duffesheide Reifeld" v="foot_way"/>
+	</way>
+	<way id="19611959" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001961"/>
+		<nd ref="00001959"/>
+		<tag k="Alsdorf, Hoengen Bendenstraße" v="foot_way"/>
+	</way>
+	<way id="19691959" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001969"/>
+		<nd ref="00001959"/>
+		<tag k="Alsdorf, Hoengen Bendenstraße" v="foot_way"/>
+	</way>
+	<way id="19591961" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001959"/>
+		<nd ref="00001961"/>
+		<tag k="Alsdorf, Hoengen Goethestraße" v="foot_way"/>
+	</way>
+	<way id="19691963" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001969"/>
+		<nd ref="00001963"/>
+		<tag k="Alsdorf, Hoengen Kirche" v="foot_way"/>
+	</way>
+	<way id="19671965" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001967"/>
+		<nd ref="00001965"/>
+		<tag k="Alsdorf, Hoengen Langstraße" v="foot_way"/>
+	</way>
+	<way id="19651967" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001965"/>
+		<nd ref="00001967"/>
+		<tag k="Alsdorf, Hoengen Marienstraße" v="foot_way"/>
+	</way>
+	<way id="19591969" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001959"/>
+		<nd ref="00001969"/>
+		<tag k="Alsdorf, Hoengen Markt" v="foot_way"/>
+	</way>
+	<way id="19631969" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001963"/>
+		<nd ref="00001969"/>
+		<tag k="Alsdorf, Hoengen Markt" v="foot_way"/>
+	</way>
+	<way id="19861975" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001986"/>
+		<nd ref="00001975"/>
+		<tag k="Alsdorf, Annapark Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="19821989" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001982"/>
+		<nd ref="00001989"/>
+		<tag k="Alsdorf, Kellersberg Friedhof" v="foot_way"/>
+	</way>
+	<way id="19161991" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001916"/>
+		<nd ref="00001991"/>
+		<tag k="Alsdorf, Begau Siedlung" v="foot_way"/>
+	</way>
+	<way id="19181991" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001918"/>
+		<nd ref="00001991"/>
+		<tag k="Alsdorf, Begau Siedlung" v="foot_way"/>
+	</way>
+	<way id="19161997" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001916"/>
+		<nd ref="00001997"/>
+		<tag k="Alsdorf, Mariadorf Dreieck" v="foot_way"/>
+	</way>
+	<way id="19981997" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001998"/>
+		<nd ref="00001997"/>
+		<tag k="Alsdorf, Mariadorf Dreieck" v="foot_way"/>
+	</way>
+	<way id="19971998" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001997"/>
+		<nd ref="00001998"/>
+		<tag k="Alsdorf, Mariadorf Altes Rathaus" v="foot_way"/>
+	</way>
+	<way id="20072003" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002007"/>
+		<nd ref="00002003"/>
+		<tag k="Alsdorf, Mariadorf Kirche" v="foot_way"/>
+	</way>
+	<way id="20122003" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002012"/>
+		<nd ref="00002003"/>
+		<tag k="Alsdorf, Mariadorf Kirche" v="foot_way"/>
+	</way>
+	<way id="20132003" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002013"/>
+		<nd ref="00002003"/>
+		<tag k="Alsdorf, Mariadorf Kirche" v="foot_way"/>
+	</way>
+	<way id="20032007" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002003"/>
+		<nd ref="00002007"/>
+		<tag k="Alsdorf, Mariadorf Lindenstraße" v="foot_way"/>
+	</way>
+	<way id="20122007" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002012"/>
+		<nd ref="00002007"/>
+		<tag k="Alsdorf, Mariadorf Lindenstraße" v="foot_way"/>
+	</way>
+	<way id="20132007" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002013"/>
+		<nd ref="00002007"/>
+		<tag k="Alsdorf, Mariadorf Lindenstraße" v="foot_way"/>
+	</way>
+	<way id="20032013" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002003"/>
+		<nd ref="00002013"/>
+		<tag k="Alsdorf, Mariadorf Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="20072013" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002007"/>
+		<nd ref="00002013"/>
+		<tag k="Alsdorf, Mariadorf Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="20122013" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002012"/>
+		<nd ref="00002013"/>
+		<tag k="Alsdorf, Mariadorf Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="20212019" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002021"/>
+		<nd ref="00002019"/>
+		<tag k="Alsdorf, Ofden Entenweg" v="foot_way"/>
+	</way>
+	<way id="20192021" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002019"/>
+		<nd ref="00002021"/>
+		<tag k="Alsdorf, Ofden Im Kranental" v="foot_way"/>
+	</way>
+	<way id="20332027" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002033"/>
+		<nd ref="00002027"/>
+		<tag k="Alsdorf, Ofden Bergschlösschen" v="foot_way"/>
+	</way>
+	<way id="20272033" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002027"/>
+		<nd ref="00002033"/>
+		<tag k="Alsdorf, Ofden Kiosk" v="foot_way"/>
+	</way>
+	<way id="18592037" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001859"/>
+		<nd ref="00002037"/>
+		<tag k="Alsdorf, Schaufenberg Am Klött" v="foot_way"/>
+	</way>
+	<way id="20792059" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002079"/>
+		<nd ref="00002059"/>
+		<tag k="Baesweiler, Gymnasium" v="foot_way"/>
+	</way>
+	<way id="20872059" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002087"/>
+		<nd ref="00002059"/>
+		<tag k="Baesweiler, Gymnasium" v="foot_way"/>
+	</way>
+	<way id="21072061" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002107"/>
+		<nd ref="00002061"/>
+		<tag k="Baesweiler, Im Brühl" v="foot_way"/>
+	</way>
+	<way id="20852067" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002085"/>
+		<nd ref="00002067"/>
+		<tag k="Baesweiler, Fidelisstraße" v="foot_way"/>
+	</way>
+	<way id="20592079" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002059"/>
+		<nd ref="00002079"/>
+		<tag k="Baesweiler, Maarstraße" v="foot_way"/>
+	</way>
+	<way id="20672085" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002067"/>
+		<nd ref="00002085"/>
+		<tag k="Baesweiler, Reyplatz" v="foot_way"/>
+	</way>
+	<way id="20592087" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002059"/>
+		<nd ref="00002087"/>
+		<tag k="Baesweiler, Urweg" v="foot_way"/>
+	</way>
+	<way id="21192105" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002119"/>
+		<nd ref="00002105"/>
+		<tag k="Baesweiler, Oidtweiler Kloshaus" v="foot_way"/>
+	</way>
+	<way id="20612107" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002061"/>
+		<nd ref="00002107"/>
+		<tag k="Baesweiler, Oidtweiler Kapelle" v="foot_way"/>
+	</way>
+	<way id="21142113" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002114"/>
+		<nd ref="00002113"/>
+		<tag k="Baesweiler, Loverich Schule" v="foot_way"/>
+	</way>
+	<way id="21052119" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002105"/>
+		<nd ref="00002119"/>
+		<tag k="Baesweiler, Oidtweiler In den Füllen" v="foot_way"/>
+	</way>
+	<way id="21292125" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002129"/>
+		<nd ref="00002125"/>
+		<tag k="Baesweiler, Puffendorf B 57" v="foot_way"/>
+	</way>
+	<way id="21252129" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002125"/>
+		<nd ref="00002129"/>
+		<tag k="Baesweiler, Puffendorf von Ameln" v="foot_way"/>
+	</way>
+	<way id="21392131" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002139"/>
+		<nd ref="00002131"/>
+		<tag k="Baesweiler, Setterich Bahnstraße" v="foot_way"/>
+	</way>
+	<way id="21312139" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002131"/>
+		<nd ref="00002139"/>
+		<tag k="Baesweiler, Setterich Rathaus" v="foot_way"/>
+	</way>
+	<way id="21432139" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002143"/>
+		<nd ref="00002139"/>
+		<tag k="Baesweiler, Setterich Rathaus" v="foot_way"/>
+	</way>
+	<way id="21392143" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002139"/>
+		<nd ref="00002143"/>
+		<tag k="Baesweiler, Setterich Neue Mitte" v="foot_way"/>
+	</way>
+	<way id="21652161" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002165"/>
+		<nd ref="00002161"/>
+		<tag k="Düren, Arnoldsweiler Mitte" v="foot_way"/>
+	</way>
+	<way id="21612165" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002161"/>
+		<nd ref="00002165"/>
+		<tag k="Düren, Arnoldsweiler Trierer Straße" v="foot_way"/>
+	</way>
+	<way id="21992187" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002199"/>
+		<nd ref="00002187"/>
+		<tag k="Düren, Birkesdorf Abzw. Hoven" v="foot_way"/>
+	</way>
+	<way id="22152187" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002215"/>
+		<nd ref="00002187"/>
+		<tag k="Düren, Birkesdorf Abzw. Hoven" v="foot_way"/>
+	</way>
+	<way id="22012195" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002201"/>
+		<nd ref="00002195"/>
+		<tag k="Düren, Birkesdorf Amt" v="foot_way"/>
+	</way>
+	<way id="22072197" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002207"/>
+		<nd ref="00002197"/>
+		<tag k="Düren, Birkesdorf Festhalle" v="foot_way"/>
+	</way>
+	<way id="21872199" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002187"/>
+		<nd ref="00002199"/>
+		<tag k="Düren, Birkesdorf Isolaplatz" v="foot_way"/>
+	</way>
+	<way id="22152199" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002215"/>
+		<nd ref="00002199"/>
+		<tag k="Düren, Birkesdorf Isolaplatz" v="foot_way"/>
+	</way>
+	<way id="21952201" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002195"/>
+		<nd ref="00002201"/>
+		<tag k="Düren, Birkesdorf Krankenhaus" v="foot_way"/>
+	</way>
+	<way id="21972207" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002197"/>
+		<nd ref="00002207"/>
+		<tag k="Düren, Birkesdorf Weidenpesch" v="foot_way"/>
+	</way>
+	<way id="22472210" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002247"/>
+		<nd ref="00002210"/>
+		<tag k="Düren, Eupener Straße" v="foot_way"/>
+	</way>
+	<way id="21872215" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002187"/>
+		<nd ref="00002215"/>
+		<tag k="Düren, Birkesdorf Hovener Straße" v="foot_way"/>
+	</way>
+	<way id="21992215" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002199"/>
+		<nd ref="00002215"/>
+		<tag k="Düren, Birkesdorf Hovener Straße" v="foot_way"/>
+	</way>
+	<way id="22262225" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002226"/>
+		<nd ref="00002225"/>
+		<tag k="Düren, Derichsweiler Abzw." v="foot_way"/>
+	</way>
+	<way id="22252226" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002225"/>
+		<nd ref="00002226"/>
+		<tag k="Düren, Derichsweiler Auf der Komm" v="foot_way"/>
+	</way>
+	<way id="24172235" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002417"/>
+		<nd ref="00002235"/>
+		<tag k="Düren, Distelrath/DKB" v="foot_way"/>
+	</way>
+	<way id="22932241" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002293"/>
+		<nd ref="00002241"/>
+		<tag k="Düren, Agnesstraße" v="foot_way"/>
+	</way>
+	<way id="23772241" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002377"/>
+		<nd ref="00002241"/>
+		<tag k="Düren, Agnesstraße" v="foot_way"/>
+	</way>
+	<way id="22102247" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002210"/>
+		<nd ref="00002247"/>
+		<tag k="Düren, An der Windmühle" v="foot_way"/>
+	</way>
+	<way id="23572249" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002357"/>
+		<nd ref="00002249"/>
+		<tag k="Düren, Markt" v="foot_way"/>
+	</way>
+	<way id="22512252" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002251"/>
+		<nd ref="00002252"/>
+		<tag k="Düren, Annakirmesplatz (Bus)" v="foot_way"/>
+	</way>
+	<way id="23052252" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002305"/>
+		<nd ref="00002252"/>
+		<tag k="Düren, Annakirmesplatz (Bus)" v="foot_way"/>
+	</way>
+	<way id="23672252" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002367"/>
+		<nd ref="00002252"/>
+		<tag k="Düren, Annakirmesplatz (Bus)" v="foot_way"/>
+	</way>
+	<way id="23572265" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002357"/>
+		<nd ref="00002265"/>
+		<tag k="Düren, Bonner Straße" v="foot_way"/>
+	</way>
+	<way id="23592271" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002359"/>
+		<nd ref="00002271"/>
+		<tag k="Düren, Wörthsiedlung Brüsseler Straße" v="foot_way"/>
+	</way>
+	<way id="23232274" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002323"/>
+		<nd ref="00002274"/>
+		<tag k="Düren, Burgau Gymnasium" v="foot_way"/>
+	</way>
+	<way id="23192275" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002319"/>
+		<nd ref="00002275"/>
+		<tag k="Düren, Chlodwigplatz" v="foot_way"/>
+	</way>
+	<way id="23092283" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002309"/>
+		<nd ref="00002283"/>
+		<tag k="Düren, AOK - Aachener Straße" v="foot_way"/>
+	</way>
+	<way id="22862285" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002286"/>
+		<nd ref="00002285"/>
+		<tag k="Düren, Bahnhof / ZOB (Bus)" v="foot_way"/>
+	</way>
+	<way id="22412293" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002241"/>
+		<nd ref="00002293"/>
+		<tag k="Düren, Josefskirche" v="foot_way"/>
+	</way>
+	<way id="23332297" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002333"/>
+		<nd ref="00002297"/>
+		<tag k="Düren, Karlstraße" v="foot_way"/>
+	</way>
+	<way id="23532301" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002353"/>
+		<nd ref="00002301"/>
+		<tag k="Düren, Grüngürtel Krankenhaus" v="foot_way"/>
+	</way>
+	<way id="22512305" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002251"/>
+		<nd ref="00002305"/>
+		<tag k="Düren, Rurbrücke" v="foot_way"/>
+	</way>
+	<way id="22522305" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002252"/>
+		<nd ref="00002305"/>
+		<tag k="Düren, Rurbrücke" v="foot_way"/>
+	</way>
+	<way id="22832309" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002283"/>
+		<nd ref="00002309"/>
+		<tag k="Düren, Eiswiese" v="foot_way"/>
+	</way>
+	<way id="22752319" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002275"/>
+		<nd ref="00002319"/>
+		<tag k="Düren, Friedrichplatz" v="foot_way"/>
+	</way>
+	<way id="22742323" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002274"/>
+		<nd ref="00002323"/>
+		<tag k="Düren, Garnbleiche" v="foot_way"/>
+	</way>
+	<way id="23912323" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002391"/>
+		<nd ref="00002323"/>
+		<tag k="Düren, Garnbleiche" v="foot_way"/>
+	</way>
+	<way id="22972333" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002297"/>
+		<nd ref="00002333"/>
+		<tag k="Düren, Haas" v="foot_way"/>
+	</way>
+	<way id="23392340" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002339"/>
+		<nd ref="00002340"/>
+		<tag k="Düren, Arena Kreis Düren" v="foot_way"/>
+	</way>
+	<way id="23012353" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002301"/>
+		<nd ref="00002353"/>
+		<tag k="Düren, Neuer Friedhof" v="foot_way"/>
+	</way>
+	<way id="23832353" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002383"/>
+		<nd ref="00002353"/>
+		<tag k="Düren, Neuer Friedhof" v="foot_way"/>
+	</way>
+	<way id="23972353" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002397"/>
+		<nd ref="00002353"/>
+		<tag k="Düren, Neuer Friedhof" v="foot_way"/>
+	</way>
+	<way id="22492357" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002249"/>
+		<nd ref="00002357"/>
+		<tag k="Düren, Oberstraße" v="foot_way"/>
+	</way>
+	<way id="22652357" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002265"/>
+		<nd ref="00002357"/>
+		<tag k="Düren, Oberstraße" v="foot_way"/>
+	</way>
+	<way id="22712359" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002271"/>
+		<nd ref="00002359"/>
+		<tag k="Düren, Wörthsiedlung Odenthalstraße" v="foot_way"/>
+	</way>
+	<way id="22522367" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002252"/>
+		<nd ref="00002367"/>
+		<tag k="Düren, Rütger-von-Scheven-Straße" v="foot_way"/>
+	</way>
+	<way id="22412377" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002241"/>
+		<nd ref="00002377"/>
+		<tag k="Düren, August-Bebel-Straße" v="foot_way"/>
+	</way>
+	<way id="23532383" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002353"/>
+		<nd ref="00002383"/>
+		<tag k="Düren, St. Bonifatius" v="foot_way"/>
+	</way>
+	<way id="23972383" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002397"/>
+		<nd ref="00002383"/>
+		<tag k="Düren, St. Bonifatius" v="foot_way"/>
+	</way>
+	<way id="23892385" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002389"/>
+		<nd ref="00002385"/>
+		<tag k="Düren, Tivolistraße" v="foot_way"/>
+	</way>
+	<way id="22512389" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002251"/>
+		<nd ref="00002389"/>
+		<tag k="Düren, Weierstraße" v="foot_way"/>
+	</way>
+	<way id="23852389" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002385"/>
+		<nd ref="00002389"/>
+		<tag k="Düren, Weierstraße" v="foot_way"/>
+	</way>
+	<way id="23232391" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002323"/>
+		<nd ref="00002391"/>
+		<tag k="Düren, Weyerfeld" v="foot_way"/>
+	</way>
+	<way id="23412393" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002341"/>
+		<nd ref="00002393"/>
+		<tag k="Düren, Weyerhof" v="foot_way"/>
+	</way>
+	<way id="23532397" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002353"/>
+		<nd ref="00002397"/>
+		<tag k="Düren, Yorkstraße" v="foot_way"/>
+	</way>
+	<way id="23832397" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002383"/>
+		<nd ref="00002397"/>
+		<tag k="Düren, Yorkstraße" v="foot_way"/>
+	</way>
+	<way id="24012399" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002401"/>
+		<nd ref="00002399"/>
+		<tag k="Düren, Zülpicher Platz" v="foot_way"/>
+	</way>
+	<way id="23992401" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002399"/>
+		<nd ref="00002401"/>
+		<tag k="Düren, Zülpicher Straße" v="foot_way"/>
+	</way>
+	<way id="22352417" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002235"/>
+		<nd ref="00002417"/>
+		<tag k="Düren, Distelrather Weg" v="foot_way"/>
+	</way>
+	<way id="24272426" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002427"/>
+		<nd ref="00002426"/>
+		<tag k="Düren, Birkesdorf Im großen Tal (Bus)" v="foot_way"/>
+	</way>
+	<way id="24512443" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002451"/>
+		<nd ref="00002443"/>
+		<tag k="Düren, Gürzenich Kallsgasse" v="foot_way"/>
+	</way>
+	<way id="24512445" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002451"/>
+		<nd ref="00002445"/>
+		<tag k="Düren, Gürzenich Kapelle" v="foot_way"/>
+	</way>
+	<way id="24532447" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002453"/>
+		<nd ref="00002447"/>
+		<tag k="Düren, Gürzenich Kirche" v="foot_way"/>
+	</way>
+	<way id="24432451" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002443"/>
+		<nd ref="00002451"/>
+		<tag k="Düren, Gürzenich Schlagbaum" v="foot_way"/>
+	</way>
+	<way id="24452451" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002445"/>
+		<nd ref="00002451"/>
+		<tag k="Düren, Gürzenich Schlagbaum" v="foot_way"/>
+	</way>
+	<way id="24472453" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002447"/>
+		<nd ref="00002453"/>
+		<tag k="Düren, Gürzenich Schule" v="foot_way"/>
+	</way>
+	<way id="24652463" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002465"/>
+		<nd ref="00002463"/>
+		<tag k="Düren, Hoven Am Steinberg" v="foot_way"/>
+	</way>
+	<way id="24672463" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002467"/>
+		<nd ref="00002463"/>
+		<tag k="Düren, Hoven Am Steinberg" v="foot_way"/>
+	</way>
+	<way id="24632465" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002463"/>
+		<nd ref="00002465"/>
+		<tag k="Düren, Hoven Post" v="foot_way"/>
+	</way>
+	<way id="24692465" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002469"/>
+		<nd ref="00002465"/>
+		<tag k="Düren, Hoven Post" v="foot_way"/>
+	</way>
+	<way id="24632467" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002463"/>
+		<nd ref="00002467"/>
+		<tag k="Düren, Hoven Sattlerstraße" v="foot_way"/>
+	</way>
+	<way id="24712467" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002471"/>
+		<nd ref="00002467"/>
+		<tag k="Düren, Hoven Sattlerstraße" v="foot_way"/>
+	</way>
+	<way id="24652469" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002465"/>
+		<nd ref="00002469"/>
+		<tag k="Düren, Hoven Schule" v="foot_way"/>
+	</way>
+	<way id="24672471" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002467"/>
+		<nd ref="00002471"/>
+		<tag k="Düren, Hoven Wechselsaat" v="foot_way"/>
+	</way>
+	<way id="24932485" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002493"/>
+		<nd ref="00002485"/>
+		<tag k="Düren, Krauthausen AKZO-Chemie" v="foot_way"/>
+	</way>
+	<way id="24992495" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002499"/>
+		<nd ref="00002495"/>
+		<tag k="Düren, Lendersdorf Am Broich" v="foot_way"/>
+	</way>
+	<way id="25052495" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002505"/>
+		<nd ref="00002495"/>
+		<tag k="Düren, Lendersdorf Am Broich" v="foot_way"/>
+	</way>
+	<way id="24952499" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002495"/>
+		<nd ref="00002499"/>
+		<tag k="Düren, Lendersdorf Kino" v="foot_way"/>
+	</way>
+	<way id="24932503" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002493"/>
+		<nd ref="00002503"/>
+		<tag k="Düren, Lendersdorf Krankenhaus" v="foot_way"/>
+	</way>
+	<way id="25092503" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002509"/>
+		<nd ref="00002503"/>
+		<tag k="Düren, Lendersdorf Krankenhaus" v="foot_way"/>
+	</way>
+	<way id="24952505" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002495"/>
+		<nd ref="00002505"/>
+		<tag k="Düren, Lendersdorf Post" v="foot_way"/>
+	</way>
+	<way id="25092508" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002509"/>
+		<nd ref="00002508"/>
+		<tag k="Düren, Lendersdorf Renkerstraße" v="foot_way"/>
+	</way>
+	<way id="25172513" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002517"/>
+		<nd ref="00002513"/>
+		<tag k="Düren, Mariaweiler Anne-Frank-Gesamtschule" v="foot_way"/>
+	</way>
+	<way id="25192513" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002519"/>
+		<nd ref="00002513"/>
+		<tag k="Düren, Mariaweiler Anne-Frank-Gesamtschule" v="foot_way"/>
+	</way>
+	<way id="25132517" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002513"/>
+		<nd ref="00002517"/>
+		<tag k="Düren, Mariaweiler Kirche" v="foot_way"/>
+	</way>
+	<way id="25192517" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002519"/>
+		<nd ref="00002517"/>
+		<tag k="Düren, Mariaweiler Kirche" v="foot_way"/>
+	</way>
+	<way id="25132519" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002513"/>
+		<nd ref="00002519"/>
+		<tag k="Düren, Mariaweiler Rheinstraße" v="foot_way"/>
+	</way>
+	<way id="25172519" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002517"/>
+		<nd ref="00002519"/>
+		<tag k="Düren, Mariaweiler Rheinstraße" v="foot_way"/>
+	</way>
+	<way id="25412540" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002541"/>
+		<nd ref="00002540"/>
+		<tag k="Düren, Niederau Tuchmühle (Bus)" v="foot_way"/>
+	</way>
+	<way id="25912590" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002591"/>
+		<nd ref="00002590"/>
+		<tag k="Elsdorf, Oberembt" v="foot_way"/>
+	</way>
+	<way id="25902591" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002590"/>
+		<nd ref="00002591"/>
+		<tag k="Elsdorf, Oberembt Mitte" v="foot_way"/>
+	</way>
+	<way id="26452643" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002645"/>
+		<nd ref="00002643"/>
+		<tag k="Erkelenz, Aachener Straße" v="foot_way"/>
+	</way>
+	<way id="26432645" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002643"/>
+		<nd ref="00002645"/>
+		<tag k="Erkelenz, Agentur für Arbeit" v="foot_way"/>
+	</way>
+	<way id="26482647" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002648"/>
+		<nd ref="00002647"/>
+		<tag k="Erkelenz, Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="27292727" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002729"/>
+		<nd ref="00002727"/>
+		<tag k="Erkelenz, Keyenberg" v="foot_way"/>
+	</way>
+	<way id="27272729" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002727"/>
+		<nd ref="00002729"/>
+		<tag k="Erkelenz, Keyenberg Schule" v="foot_way"/>
+	</way>
+	<way id="27482751" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002748"/>
+		<nd ref="00002751"/>
+		<tag k="Erkelenz, Lövenich Post" v="foot_way"/>
+	</way>
+	<way id="27482753" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002748"/>
+		<nd ref="00002753"/>
+		<tag k="Erkelenz, Lövenich Schule" v="foot_way"/>
+	</way>
+	<way id="27612759" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002761"/>
+		<nd ref="00002759"/>
+		<tag k="Erkelenz, Matzerath Schule" v="foot_way"/>
+	</way>
+	<way id="27592761" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002759"/>
+		<nd ref="00002761"/>
+		<tag k="Erkelenz, Matzerath Tankstelle" v="foot_way"/>
+	</way>
+	<way id="27622766" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002762"/>
+		<nd ref="00002766"/>
+		<tag k="Erkelenz, Abzw. Oerath Oerather Mühlenfeld" v="foot_way"/>
+	</way>
+	<way id="28092795" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002809"/>
+		<nd ref="00002795"/>
+		<tag k="Eschweiler, Dürwiß" v="foot_way"/>
+	</way>
+	<way id="28092805" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002809"/>
+		<nd ref="00002805"/>
+		<tag k="Eschweiler, Dürwiß Jülicher Straße" v="foot_way"/>
+	</way>
+	<way id="27952809" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002795"/>
+		<nd ref="00002809"/>
+		<tag k="Eschweiler, Dürwiß Schule" v="foot_way"/>
+	</way>
+	<way id="28052809" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002805"/>
+		<nd ref="00002809"/>
+		<tag k="Eschweiler, Dürwiß Schule" v="foot_way"/>
+	</way>
+	<way id="29672810" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002967"/>
+		<nd ref="00002810"/>
+		<tag k="Eschweiler, Stich Waldfriedhof" v="foot_way"/>
+	</way>
+	<way id="28602825" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002860"/>
+		<nd ref="00002825"/>
+		<tag k="Eschweiler, Bushof" v="foot_way"/>
+	</way>
+	<way id="28282827" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002828"/>
+		<nd ref="00002827"/>
+		<tag k="Eschweiler, Hauptbahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="30222831" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003022"/>
+		<nd ref="00002831"/>
+		<tag k="Eschweiler, Marienstraße" v="foot_way"/>
+	</way>
+	<way id="28362849" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002836"/>
+		<nd ref="00002849"/>
+		<tag k="Eschweiler, Odilienstraße/Westbahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="28282855" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002828"/>
+		<nd ref="00002855"/>
+		<tag k="Eschweiler, Röthgen Röthgener Straße" v="foot_way"/>
+	</way>
+	<way id="28402855" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002840"/>
+		<nd ref="00002855"/>
+		<tag k="Eschweiler, Röthgen Röthgener Straße" v="foot_way"/>
+	</way>
+	<way id="28362857" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002836"/>
+		<nd ref="00002857"/>
+		<tag k="Eschweiler, Steinstraße" v="foot_way"/>
+	</way>
+	<way id="28602859" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002860"/>
+		<nd ref="00002859"/>
+		<tag k="Eschweiler, Talbahnhof/Raiffeisen-Platz (Bus)" v="foot_way"/>
+	</way>
+	<way id="28692863" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002869"/>
+		<nd ref="00002863"/>
+		<tag k="Eschweiler, Dahlienweg" v="foot_way"/>
+	</way>
+	<way id="28632869" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002863"/>
+		<nd ref="00002869"/>
+		<tag k="Eschweiler, Herz-Jesu-Kirche" v="foot_way"/>
+	</way>
+	<way id="28752871" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002875"/>
+		<nd ref="00002871"/>
+		<tag k="Eschweiler, Königsbenden" v="foot_way"/>
+	</way>
+	<way id="28712875" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002871"/>
+		<nd ref="00002875"/>
+		<tag k="Eschweiler, Wetterschacht" v="foot_way"/>
+	</way>
+	<way id="30242897" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003024"/>
+		<nd ref="00002897"/>
+		<tag k="Eschweiler, Weisweiler Am Schildchen" v="foot_way"/>
+	</way>
+	<way id="29072901" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002907"/>
+		<nd ref="00002901"/>
+		<tag k="Eschweiler, Weisweiler Heidesiedlung" v="foot_way"/>
+	</way>
+	<way id="29062905" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002906"/>
+		<nd ref="00002905"/>
+		<tag k="Eschweiler, Weisweiler Hüchelner Straße" v="foot_way"/>
+	</way>
+	<way id="29052906" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002905"/>
+		<nd ref="00002906"/>
+		<tag k="Eschweiler, Weisweiler Hücheln Kapelle" v="foot_way"/>
+	</way>
+	<way id="29012907" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002901"/>
+		<nd ref="00002907"/>
+		<tag k="Eschweiler, Weisweiler Hücheln Langerweher Str." v="foot_way"/>
+	</way>
+	<way id="30202913" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003020"/>
+		<nd ref="00002913"/>
+		<tag k="Eschweiler, Weisweiler Ziegelei" v="foot_way"/>
+	</way>
+	<way id="30242913" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003024"/>
+		<nd ref="00002913"/>
+		<tag k="Eschweiler, Weisweiler Ziegelei" v="foot_way"/>
+	</way>
+	<way id="29322933" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002932"/>
+		<nd ref="00002933"/>
+		<tag k="Eschweiler, Nothberg Kirche" v="foot_way"/>
+	</way>
+	<way id="28102967" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002810"/>
+		<nd ref="00002967"/>
+		<tag k="Eschweiler, Stich Wilhelminenstraße" v="foot_way"/>
+	</way>
+	<way id="29742973" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002974"/>
+		<nd ref="00002973"/>
+		<tag k="Eschweiler, St. Jöris Kirche" v="foot_way"/>
+	</way>
+	<way id="30203021" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003020"/>
+		<nd ref="00003021"/>
+		<tag k="Eschweiler, Weisweiler Weißer Weg" v="foot_way"/>
+	</way>
+	<way id="28313022" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002831"/>
+		<nd ref="00003022"/>
+		<tag k="Eschweiler, Willi-Fährmann-Schule" v="foot_way"/>
+	</way>
+	<way id="28973024" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002897"/>
+		<nd ref="00003024"/>
+		<tag k="Eschweiler, Weisweiler Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="29133024" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002913"/>
+		<nd ref="00003024"/>
+		<tag k="Eschweiler, Weisweiler Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="30203024" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003020"/>
+		<nd ref="00003024"/>
+		<tag k="Eschweiler, Weisweiler Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="30673053" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003067"/>
+		<nd ref="00003053"/>
+		<tag k="Eupen, Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="30533067" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003053"/>
+		<nd ref="00003067"/>
+		<tag k="Eupen, Schnellewindgasse" v="foot_way"/>
+	</way>
+	<way id="31033097" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003103"/>
+		<nd ref="00003097"/>
+		<tag k="Gangelt, Birgden Bahnhof" v="foot_way"/>
+	</way>
+	<way id="31073097" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003107"/>
+		<nd ref="00003097"/>
+		<tag k="Gangelt, Birgden Bahnhof" v="foot_way"/>
+	</way>
+	<way id="30973103" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003097"/>
+		<nd ref="00003103"/>
+		<tag k="Gangelt, Birgden Geilenkirchener Straße" v="foot_way"/>
+	</way>
+	<way id="31073103" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003107"/>
+		<nd ref="00003103"/>
+		<tag k="Gangelt, Birgden Geilenkirchener Straße" v="foot_way"/>
+	</way>
+	<way id="31073105" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003107"/>
+		<nd ref="00003105"/>
+		<tag k="Gangelt, Birgden Kirche" v="foot_way"/>
+	</way>
+	<way id="30973107" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003097"/>
+		<nd ref="00003107"/>
+		<tag k="Gangelt, Birgden Pley" v="foot_way"/>
+	</way>
+	<way id="31033107" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003103"/>
+		<nd ref="00003107"/>
+		<tag k="Gangelt, Birgden Pley" v="foot_way"/>
+	</way>
+	<way id="31053107" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003105"/>
+		<nd ref="00003107"/>
+		<tag k="Gangelt, Birgden Pley" v="foot_way"/>
+	</way>
+	<way id="31353132" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003135"/>
+		<nd ref="00003132"/>
+		<tag k="Gangelt, Jakob-Muth-Schule" v="foot_way"/>
+	</way>
+	<way id="31323135" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003132"/>
+		<nd ref="00003135"/>
+		<tag k="Gangelt, Luisenring" v="foot_way"/>
+	</way>
+	<way id="31503149" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003150"/>
+		<nd ref="00003149"/>
+		<tag k="Gangelt, Langbroich Kirche" v="foot_way"/>
+	</way>
+	<way id="31693165" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003169"/>
+		<nd ref="00003165"/>
+		<tag k="Gangelt, Stahe Krings" v="foot_way"/>
+	</way>
+	<way id="31653169" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003165"/>
+		<nd ref="00003169"/>
+		<tag k="Gangelt, Stahe Post" v="foot_way"/>
+	</way>
+	<way id="31763174" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003176"/>
+		<nd ref="00003174"/>
+		<tag k="Gangelt, Mindergangelt (Schulbus)" v="foot_way"/>
+	</way>
+	<way id="32133177" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003213"/>
+		<nd ref="00003177"/>
+		<tag k="Geilenkirchen, Bauchem Kirche" v="foot_way"/>
+	</way>
+	<way id="32133183" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003213"/>
+		<nd ref="00003183"/>
+		<tag k="Geilenkirchen, Berufskolleg" v="foot_way"/>
+	</way>
+	<way id="32073187" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003207"/>
+		<nd ref="00003187"/>
+		<tag k="Geilenkirchen, Landstraße" v="foot_way"/>
+	</way>
+	<way id="32133187" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003213"/>
+		<nd ref="00003187"/>
+		<tag k="Geilenkirchen, Landstraße" v="foot_way"/>
+	</way>
+	<way id="31873207" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003187"/>
+		<nd ref="00003207"/>
+		<tag k="Geilenkirchen, Berliner Ring" v="foot_way"/>
+	</way>
+	<way id="32133207" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003213"/>
+		<nd ref="00003207"/>
+		<tag k="Geilenkirchen, Berliner Ring" v="foot_way"/>
+	</way>
+	<way id="31773213" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003177"/>
+		<nd ref="00003213"/>
+		<tag k="Geilenkirchen, Gerhart-Hauptmann-Straße" v="foot_way"/>
+	</way>
+	<way id="31833213" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003183"/>
+		<nd ref="00003213"/>
+		<tag k="Geilenkirchen, Gerhart-Hauptmann-Straße" v="foot_way"/>
+	</way>
+	<way id="31873213" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003187"/>
+		<nd ref="00003213"/>
+		<tag k="Geilenkirchen, Gerhart-Hauptmann-Straße" v="foot_way"/>
+	</way>
+	<way id="32073213" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003207"/>
+		<nd ref="00003213"/>
+		<tag k="Geilenkirchen, Gerhart-Hauptmann-Straße" v="foot_way"/>
+	</way>
+	<way id="32203219" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003220"/>
+		<nd ref="00003219"/>
+		<tag k="Geilenkirchen, Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="32253219" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003225"/>
+		<nd ref="00003219"/>
+		<tag k="Geilenkirchen, Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="32253221" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003225"/>
+		<nd ref="00003221"/>
+		<tag k="Geilenkirchen, Markt" v="foot_way"/>
+	</way>
+	<way id="32193225" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003219"/>
+		<nd ref="00003225"/>
+		<tag k="Geilenkirchen, Haihover Straße" v="foot_way"/>
+	</way>
+	<way id="32203225" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003220"/>
+		<nd ref="00003225"/>
+		<tag k="Geilenkirchen, Haihover Straße" v="foot_way"/>
+	</way>
+	<way id="32213225" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003221"/>
+		<nd ref="00003225"/>
+		<tag k="Geilenkirchen, Haihover Straße" v="foot_way"/>
+	</way>
+	<way id="32723271" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003272"/>
+		<nd ref="00003271"/>
+		<tag k="Geilenkirchen, Lindern Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="32753273" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003275"/>
+		<nd ref="00003273"/>
+		<tag k="Geilenkirchen, Lindern Kirche" v="foot_way"/>
+	</way>
+	<way id="32733275" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003273"/>
+		<nd ref="00003275"/>
+		<tag k="Geilenkirchen, Lindern Linnicher Straße" v="foot_way"/>
+	</way>
+	<way id="32873285" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003287"/>
+		<nd ref="00003285"/>
+		<tag k="Geilenkirchen, Abzw. Niederheid" v="foot_way"/>
+	</way>
+	<way id="32893285" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003289"/>
+		<nd ref="00003285"/>
+		<tag k="Geilenkirchen, Abzw. Niederheid" v="foot_way"/>
+	</way>
+	<way id="32853287" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003285"/>
+		<nd ref="00003287"/>
+		<tag k="Geilenkirchen, Niederheid Auf`m Brunk" v="foot_way"/>
+	</way>
+	<way id="32853289" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003285"/>
+		<nd ref="00003289"/>
+		<tag k="Geilenkirchen, Niederheid CSB-SYSTEM AG" v="foot_way"/>
+	</way>
+	<way id="33033297" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003303"/>
+		<nd ref="00003297"/>
+		<tag k="Geilenkirchen, Niederheid Am Forsthaus" v="foot_way"/>
+	</way>
+	<way id="33053299" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003305"/>
+		<nd ref="00003299"/>
+		<tag k="Geilenkirchen, Niederheid von-Humboldt-Straße" v="foot_way"/>
+	</way>
+	<way id="33073299" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003307"/>
+		<nd ref="00003299"/>
+		<tag k="Geilenkirchen, Niederheid von-Humboldt-Straße" v="foot_way"/>
+	</way>
+	<way id="32973303" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003297"/>
+		<nd ref="00003303"/>
+		<tag k="Geilenkirchen, Niederheid Kapellenweg" v="foot_way"/>
+	</way>
+	<way id="32993305" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003299"/>
+		<nd ref="00003305"/>
+		<tag k="Geilenkirchen, Niederheid Kaserne" v="foot_way"/>
+	</way>
+	<way id="33073305" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003307"/>
+		<nd ref="00003305"/>
+		<tag k="Geilenkirchen, Niederheid Kaserne" v="foot_way"/>
+	</way>
+	<way id="32993307" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003299"/>
+		<nd ref="00003307"/>
+		<tag k="Geilenkirchen, Niederheid Niederheiderhof" v="foot_way"/>
+	</way>
+	<way id="33053307" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003305"/>
+		<nd ref="00003307"/>
+		<tag k="Geilenkirchen, Niederheid Niederheiderhof" v="foot_way"/>
+	</way>
+	<way id="33213317" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003321"/>
+		<nd ref="00003317"/>
+		<tag k="Geilenkirchen, Süggerath Mühlenkamp" v="foot_way"/>
+	</way>
+	<way id="33173321" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003317"/>
+		<nd ref="00003321"/>
+		<tag k="Geilenkirchen, Süggerath Unterdorf" v="foot_way"/>
+	</way>
+	<way id="33373335" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003337"/>
+		<nd ref="00003335"/>
+		<tag k="Geilenkirchen, Würm Kirche" v="foot_way"/>
+	</way>
+	<way id="33353337" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003335"/>
+		<nd ref="00003337"/>
+		<tag k="Geilenkirchen, Würm Prummerner Weg" v="foot_way"/>
+	</way>
+	<way id="34093407" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003409"/>
+		<nd ref="00003407"/>
+		<tag k="Heimbach, WIZE" v="foot_way"/>
+	</way>
+	<way id="34093410" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003409"/>
+		<nd ref="00003410"/>
+		<tag k="Heimbach, Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="34383437" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003438"/>
+		<nd ref="00003437"/>
+		<tag k="Heinsberg, Dremmen Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="34813480" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003481"/>
+		<nd ref="00003480"/>
+		<tag k="Heinsberg, Kirchhoven Abzw. Vinn" v="foot_way"/>
+	</way>
+	<way id="34803481" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003480"/>
+		<nd ref="00003481"/>
+		<tag k="Heinsberg, Kirchhoven Vinn" v="foot_way"/>
+	</way>
+	<way id="34903489" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003490"/>
+		<nd ref="00003489"/>
+		<tag k="Heinsberg, Oberbruch Grebben Schule" v="foot_way"/>
+	</way>
+	<way id="35043503" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003504"/>
+		<nd ref="00003503"/>
+		<tag k="Heinsberg, Kreishaus (Bus)" v="foot_way"/>
+	</way>
+	<way id="35123511" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003512"/>
+		<nd ref="00003511"/>
+		<tag k="Heinsberg, Busbahnhof" v="foot_way"/>
+	</way>
+	<way id="35323531" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003532"/>
+		<nd ref="00003531"/>
+		<tag k="Heinsberg, Horst Ort" v="foot_way"/>
+	</way>
+	<way id="35433539" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003543"/>
+		<nd ref="00003539"/>
+		<tag k="Heinsberg, Karken Krings" v="foot_way"/>
+	</way>
+	<way id="35393543" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003539"/>
+		<nd ref="00003543"/>
+		<tag k="Heinsberg, Karken Post" v="foot_way"/>
+	</way>
+	<way id="35603555" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003560"/>
+		<nd ref="00003555"/>
+		<tag k="Heinsberg, Kempen Kirche" v="foot_way"/>
+	</way>
+	<way id="34903571" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003490"/>
+		<nd ref="00003571"/>
+		<tag k="Heinsberg, Oberbruch Grebbener Straße" v="foot_way"/>
+	</way>
+	<way id="35843585" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003584"/>
+		<nd ref="00003585"/>
+		<tag k="Heinsberg, Oberbruch Schulzentrum" v="foot_way"/>
+	</way>
+	<way id="35883589" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003588"/>
+		<nd ref="00003589"/>
+		<tag k="Heinsberg, Porselen Ort" v="foot_way"/>
+	</way>
+	<way id="35943593" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003594"/>
+		<nd ref="00003593"/>
+		<tag k="Heinsberg, Randerath Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="36243625" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003624"/>
+		<nd ref="00003625"/>
+		<tag k="Heinsberg, Uetterath Kirchaue" v="foot_way"/>
+	</way>
+	<way id="36413639" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003641"/>
+		<nd ref="00003639"/>
+		<tag k="Heinsberg, Waldenrath Dr. Schmitz" v="foot_way"/>
+	</way>
+	<way id="36393641" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003639"/>
+		<nd ref="00003641"/>
+		<tag k="Heinsberg, Waldenrath Drogerie" v="foot_way"/>
+	</way>
+	<way id="37503649" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003750"/>
+		<nd ref="00003649"/>
+		<tag k="Herzogenrath, Kohlscheid Bank Amstelbach" v="foot_way"/>
+	</way>
+	<way id="36573655" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003657"/>
+		<nd ref="00003655"/>
+		<tag k="Herzogenrath, Kohlscheid Bank Siedlung" v="foot_way"/>
+	</way>
+	<way id="36553657" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003655"/>
+		<nd ref="00003657"/>
+		<tag k="Herzogenrath, Kohlscheid Bank" v="foot_way"/>
+	</way>
+	<way id="36933663" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003693"/>
+		<nd ref="00003663"/>
+		<tag k="Herzogenrath, Bierstraß Anfang" v="foot_way"/>
+	</way>
+	<way id="36973681" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003697"/>
+		<nd ref="00003681"/>
+		<tag k="Herzogenrath, Anna-Klöcker-Straße (Grünstraße)" v="foot_way"/>
+	</way>
+	<way id="36903689" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003690"/>
+		<nd ref="00003689"/>
+		<tag k="Herzogenrath, Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="36633693" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003663"/>
+		<nd ref="00003693"/>
+		<tag k="Herzogenrath, Rathaus" v="foot_way"/>
+	</way>
+	<way id="37103695" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003710"/>
+		<nd ref="00003695"/>
+		<tag k="Herzogenrath, Burgstraße" v="foot_way"/>
+	</way>
+	<way id="36813697" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003681"/>
+		<nd ref="00003697"/>
+		<tag k="Herzogenrath, Grünstraße" v="foot_way"/>
+	</way>
+	<way id="37103709" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003710"/>
+		<nd ref="00003709"/>
+		<tag k="Herzogenrath, Schütz-von-Rode-Straße" v="foot_way"/>
+	</way>
+	<way id="36953710" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003695"/>
+		<nd ref="00003710"/>
+		<tag k="Herzogenrath, Wiesenstraße" v="foot_way"/>
+	</way>
+	<way id="37093710" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003709"/>
+		<nd ref="00003710"/>
+		<tag k="Herzogenrath, Wiesenstraße" v="foot_way"/>
+	</way>
+	<way id="37393723" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003739"/>
+		<nd ref="00003723"/>
+		<tag k="Herzogenrath, Kohlscheid Nordstraße" v="foot_way"/>
+	</way>
+	<way id="37333725" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003733"/>
+		<nd ref="00003725"/>
+		<tag k="Herzogenrath, Kohlscheid Am Wacholder" v="foot_way"/>
+	</way>
+	<way id="37303729" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003730"/>
+		<nd ref="00003729"/>
+		<tag k="Herzogenrath, Kohlscheid Kämpchen" v="foot_way"/>
+	</way>
+	<way id="37293730" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003729"/>
+		<nd ref="00003730"/>
+		<tag k="Herzogenrath, Kohlscheid Kämpchen Südstraße" v="foot_way"/>
+	</way>
+	<way id="37253733" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003725"/>
+		<nd ref="00003733"/>
+		<tag k="Herzogenrath, Kohlscheid Altes Rathaus" v="foot_way"/>
+	</way>
+	<way id="37433733" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003743"/>
+		<nd ref="00003733"/>
+		<tag k="Herzogenrath, Kohlscheid Altes Rathaus" v="foot_way"/>
+	</way>
+	<way id="37233739" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003723"/>
+		<nd ref="00003739"/>
+		<tag k="Herzogenrath, Kohlscheid Markt" v="foot_way"/>
+	</way>
+	<way id="37413739" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003741"/>
+		<nd ref="00003739"/>
+		<tag k="Herzogenrath, Kohlscheid Markt" v="foot_way"/>
+	</way>
+	<way id="37393741" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003739"/>
+		<nd ref="00003741"/>
+		<tag k="Herzogenrath, Kohlscheid Alte Post" v="foot_way"/>
+	</way>
+	<way id="37333743" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003733"/>
+		<nd ref="00003743"/>
+		<tag k="Herzogenrath, Kohlscheid Pestalozzistraße" v="foot_way"/>
+	</way>
+	<way id="37503749" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003750"/>
+		<nd ref="00003749"/>
+		<tag k="Herzogenrath, Kohlscheid Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="37503757" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003750"/>
+		<nd ref="00003757"/>
+		<tag k="Herzogenrath, Kohlscheid Weststraße" v="foot_way"/>
+	</way>
+	<way id="37643761" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003764"/>
+		<nd ref="00003761"/>
+		<tag k="Herzogenrath, Merkstein Alt-Merkstein (Bus)" v="foot_way"/>
+	</way>
+	<way id="37693763" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003769"/>
+		<nd ref="00003763"/>
+		<tag k="Herzogenrath, Merkstein Alt-Merkstein Friedhof" v="foot_way"/>
+	</way>
+	<way id="37683767" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003768"/>
+		<nd ref="00003767"/>
+		<tag k="Herzogenrath, Merkstein August-Schmidt-Platz (Bus)" v="foot_way"/>
+	</way>
+	<way id="37633769" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003763"/>
+		<nd ref="00003769"/>
+		<tag k="Herzogenrath, Merkstein Haus Worm" v="foot_way"/>
+	</way>
+	<way id="37703769" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003770"/>
+		<nd ref="00003769"/>
+		<tag k="Herzogenrath, Merkstein Haus Worm" v="foot_way"/>
+	</way>
+	<way id="37693770" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003769"/>
+		<nd ref="00003770"/>
+		<tag k="Herzogenrath, Merkstein Grenzstraße" v="foot_way"/>
+	</way>
+	<way id="37813773" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003781"/>
+		<nd ref="00003773"/>
+		<tag k="Herzogenrath, Merkstein Magerauer Straße" v="foot_way"/>
+	</way>
+	<way id="37643775" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003764"/>
+		<nd ref="00003775"/>
+		<tag k="Herzogenrath, Merkstein Martinusstraße" v="foot_way"/>
+	</way>
+	<way id="37733781" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003773"/>
+		<nd ref="00003781"/>
+		<tag k="Herzogenrath, Merkstein Gesamtschule" v="foot_way"/>
+	</way>
+	<way id="37823781" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003782"/>
+		<nd ref="00003781"/>
+		<tag k="Herzogenrath, Merkstein Gesamtschule" v="foot_way"/>
+	</way>
+	<way id="37813782" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003781"/>
+		<nd ref="00003782"/>
+		<tag k="Herzogenrath, Merkstein Gesamtschule Wendeschleife" v="foot_way"/>
+	</way>
+	<way id="37643785" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003764"/>
+		<nd ref="00003785"/>
+		<tag k="Herzogenrath, Merkstein Hauptstraße" v="foot_way"/>
+	</way>
+	<way id="37643787" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003764"/>
+		<nd ref="00003787"/>
+		<tag k="Herzogenrath, Merkstein Sommerweg" v="foot_way"/>
+	</way>
+	<way id="37643793" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003764"/>
+		<nd ref="00003793"/>
+		<tag k="Herzogenrath, Merkstein Zum Kalverhof" v="foot_way"/>
+	</way>
+	<way id="37993795" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003799"/>
+		<nd ref="00003795"/>
+		<tag k="Herzogenrath, Merkstein Boscheler Berg" v="foot_way"/>
+	</way>
+	<way id="37953799" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003795"/>
+		<nd ref="00003799"/>
+		<tag k="Herzogenrath, Merkstein Industrieg. Boscheler Berg" v="foot_way"/>
+	</way>
+	<way id="38163815" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003816"/>
+		<nd ref="00003815"/>
+		<tag k="Herzogenrath, Vier Jahreszeiten" v="foot_way"/>
+	</way>
+	<way id="38253819" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003825"/>
+		<nd ref="00003819"/>
+		<tag k="Herzogenrath, Kohlsch. Pannesheide Altes Zollhaus" v="foot_way"/>
+	</way>
+	<way id="38193825" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003819"/>
+		<nd ref="00003825"/>
+		<tag k="Herzogenrath, Kohlscheid Pannesheide" v="foot_way"/>
+	</way>
+	<way id="38453837" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003845"/>
+		<nd ref="00003837"/>
+		<tag k="Herzogenrath, Straß" v="foot_way"/>
+	</way>
+	<way id="38433839" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003843"/>
+		<nd ref="00003839"/>
+		<tag k="Herzogenrath, Im Straßer Feld" v="foot_way"/>
+	</way>
+	<way id="38463841" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003846"/>
+		<nd ref="00003841"/>
+		<tag k="Herzogenrath, Straß Kohlberg" v="foot_way"/>
+	</way>
+	<way id="38473841" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003847"/>
+		<nd ref="00003841"/>
+		<tag k="Herzogenrath, Straß Kohlberg" v="foot_way"/>
+	</way>
+	<way id="38393843" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003839"/>
+		<nd ref="00003843"/>
+		<tag k="Herzogenrath, Pilgramsweg" v="foot_way"/>
+	</way>
+	<way id="38373845" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003837"/>
+		<nd ref="00003845"/>
+		<tag k="Herzogenrath, Straß Neustraße/Pricksteenweg" v="foot_way"/>
+	</way>
+	<way id="38483845" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003848"/>
+		<nd ref="00003845"/>
+		<tag k="Herzogenrath, Straß Neustraße/Pricksteenweg" v="foot_way"/>
+	</way>
+	<way id="38413847" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003841"/>
+		<nd ref="00003847"/>
+		<tag k="Herzogenrath, Straß Schummerstraat/Neustraße" v="foot_way"/>
+	</way>
+	<way id="38463847" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003846"/>
+		<nd ref="00003847"/>
+		<tag k="Herzogenrath, Straß Schummerstraat/Neustraße" v="foot_way"/>
+	</way>
+	<way id="38663873" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003866"/>
+		<nd ref="00003873"/>
+		<tag k="Hückelhoven, Brachelen Unterführung" v="foot_way"/>
+	</way>
+	<way id="38833877" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003883"/>
+		<nd ref="00003877"/>
+		<tag k="Hückelhoven, Doveren Holzapfelstraße" v="foot_way"/>
+	</way>
+	<way id="38773883" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003877"/>
+		<nd ref="00003883"/>
+		<tag k="Hückelhoven, Doveren Provinzialstraße" v="foot_way"/>
+	</way>
+	<way id="38963895" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003896"/>
+		<nd ref="00003895"/>
+		<tag k="Hückelhoven, Baal Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="39313927" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003931"/>
+		<nd ref="00003927"/>
+		<tag k="Hückelhoven, Bad" v="foot_way"/>
+	</way>
+	<way id="39343927" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003934"/>
+		<nd ref="00003927"/>
+		<tag k="Hückelhoven, Bad" v="foot_way"/>
+	</way>
+	<way id="39273931" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003927"/>
+		<nd ref="00003931"/>
+		<tag k="Hückelhoven, Rathaus (Doktor-Ruben-Straße)" v="foot_way"/>
+	</way>
+	<way id="39343931" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003934"/>
+		<nd ref="00003931"/>
+		<tag k="Hückelhoven, Rathaus (Doktor-Ruben-Straße)" v="foot_way"/>
+	</way>
+	<way id="39323935" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003932"/>
+		<nd ref="00003935"/>
+		<tag k="Hückelhoven, Parkhofstraße" v="foot_way"/>
+	</way>
+	<way id="39773975" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003977"/>
+		<nd ref="00003975"/>
+		<tag k="Hückelhoven, Ratheim Buscherbahn" v="foot_way"/>
+	</way>
+	<way id="39753977" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003975"/>
+		<nd ref="00003977"/>
+		<tag k="Hückelhoven, Ratheim Jacobastraße" v="foot_way"/>
+	</way>
+	<way id="40534051" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004053"/>
+		<nd ref="00004051"/>
+		<tag k="Hürtgenwald, Abzw. Kleinhau" v="foot_way"/>
+	</way>
+	<way id="40514053" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004051"/>
+		<nd ref="00004053"/>
+		<tag k="Hürtgenwald, Kleinhau Landstraße" v="foot_way"/>
+	</way>
+	<way id="40634061" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004063"/>
+		<nd ref="00004061"/>
+		<tag k="Hürtgenwald, Vossenack Gymnasium" v="foot_way"/>
+	</way>
+	<way id="40614063" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004061"/>
+		<nd ref="00004063"/>
+		<tag k="Hürtgenwald, Vossenack Kloster" v="foot_way"/>
+	</way>
+	<way id="44354065" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004435"/>
+		<nd ref="00004065"/>
+		<tag k="Hürtgenwald, Straß" v="foot_way"/>
+	</way>
+	<way id="41034099" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004103"/>
+		<nd ref="00004099"/>
+		<tag k="Inden, Inden/Altdorf Rathaus" v="foot_way"/>
+	</way>
+	<way id="40994103" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004099"/>
+		<nd ref="00004103"/>
+		<tag k="Inden, Inden/Altdorf Diro Markt" v="foot_way"/>
+	</way>
+	<way id="41404139" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004140"/>
+		<nd ref="00004139"/>
+		<tag k="Jülich, Barmen Haus Overbach" v="foot_way"/>
+	</way>
+	<way id="41394140" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004139"/>
+		<nd ref="00004140"/>
+		<tag k="Jülich, Barmen Haus Overbach Gymnasium" v="foot_way"/>
+	</way>
+	<way id="41384147" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004138"/>
+		<nd ref="00004147"/>
+		<tag k="Jülich, Broich Kirche" v="foot_way"/>
+	</way>
+	<way id="41654163" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004165"/>
+		<nd ref="00004163"/>
+		<tag k="Jülich, Neubourheim" v="foot_way"/>
+	</way>
+	<way id="41634165" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004163"/>
+		<nd ref="00004165"/>
+		<tag k="Jülich, Neubourheim Landstraße" v="foot_way"/>
+	</way>
+	<way id="41884183" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004188"/>
+		<nd ref="00004183"/>
+		<tag k="Jülich, City" v="foot_way"/>
+	</way>
+	<way id="41894183" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004189"/>
+		<nd ref="00004183"/>
+		<tag k="Jülich, City" v="foot_way"/>
+	</way>
+	<way id="42034183" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004203"/>
+		<nd ref="00004183"/>
+		<tag k="Jülich, City" v="foot_way"/>
+	</way>
+	<way id="41834189" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004183"/>
+		<nd ref="00004189"/>
+		<tag k="Jülich, Bahnhof / ZOB (Bus)" v="foot_way"/>
+	</way>
+	<way id="41884189" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004188"/>
+		<nd ref="00004189"/>
+		<tag k="Jülich, Bahnhof / ZOB (Bus)" v="foot_way"/>
+	</way>
+	<way id="41834203" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004183"/>
+		<nd ref="00004203"/>
+		<tag k="Jülich, Neues Rathaus" v="foot_way"/>
+	</way>
+	<way id="41364211" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004136"/>
+		<nd ref="00004211"/>
+		<tag k="Jülich, Schlehdornweg" v="foot_way"/>
+	</way>
+	<way id="42174219" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004217"/>
+		<nd ref="00004219"/>
+		<tag k="Jülich, Süd" v="foot_way"/>
+	</way>
+	<way id="42534255" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004253"/>
+		<nd ref="00004255"/>
+		<tag k="Jülich, Selgersdorf Kirche" v="foot_way"/>
+	</way>
+	<way id="42534257" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004253"/>
+		<nd ref="00004257"/>
+		<tag k="Jülich, Selgersdorf Post" v="foot_way"/>
+	</way>
+	<way id="42674259" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004267"/>
+		<nd ref="00004259"/>
+		<tag k="Jülich, Stetternich Bebber" v="foot_way"/>
+	</way>
+	<way id="42594267" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004259"/>
+		<nd ref="00004267"/>
+		<tag k="Jülich, Stetternich Jägerhof" v="foot_way"/>
+	</way>
+	<way id="40654435" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004065"/>
+		<nd ref="00004435"/>
+		<tag k="Kreuzau, Abzw. Bogheim" v="foot_way"/>
+	</way>
+	<way id="44474439" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004447"/>
+		<nd ref="00004439"/>
+		<tag k="Kreuzau, Freizeitbad" v="foot_way"/>
+	</way>
+	<way id="44454444" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004445"/>
+		<nd ref="00004444"/>
+		<tag k="Kreuzau, Rathaus" v="foot_way"/>
+	</way>
+	<way id="44464444" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004446"/>
+		<nd ref="00004444"/>
+		<tag k="Kreuzau, Rathaus" v="foot_way"/>
+	</way>
+	<way id="44444446" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004444"/>
+		<nd ref="00004446"/>
+		<tag k="Kreuzau, Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="44454446" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004445"/>
+		<nd ref="00004446"/>
+		<tag k="Kreuzau, Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="44394447" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004439"/>
+		<nd ref="00004447"/>
+		<tag k="Kreuzau, Festhalle" v="foot_way"/>
+	</way>
+	<way id="44414453" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004441"/>
+		<nd ref="00004453"/>
+		<tag k="Kreuzau, Stadion" v="foot_way"/>
+	</way>
+	<way id="44634467" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004463"/>
+		<nd ref="00004467"/>
+		<tag k="Kreuzau, Obermaubach Staumauer" v="foot_way"/>
+	</way>
+	<way id="44754469" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004475"/>
+		<nd ref="00004469"/>
+		<tag k="Kreuzau, Stockheim An der Tränke" v="foot_way"/>
+	</way>
+	<way id="44794469" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004479"/>
+		<nd ref="00004469"/>
+		<tag k="Kreuzau, Stockheim An der Tränke" v="foot_way"/>
+	</way>
+	<way id="44774473" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004477"/>
+		<nd ref="00004473"/>
+		<tag k="Kreuzau, Stockheim Am Burgholz" v="foot_way"/>
+	</way>
+	<way id="44694475" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004469"/>
+		<nd ref="00004475"/>
+		<tag k="Kreuzau, Stockheim Am Torfberg" v="foot_way"/>
+	</way>
+	<way id="44734477" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004473"/>
+		<nd ref="00004477"/>
+		<tag k="Kreuzau, Stockheim Kollweg" v="foot_way"/>
+	</way>
+	<way id="44694479" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004469"/>
+		<nd ref="00004479"/>
+		<tag k="Kreuzau, Stockheim Sparkasse" v="foot_way"/>
+	</way>
+	<way id="44934495" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004493"/>
+		<nd ref="00004495"/>
+		<tag k="Kreuzau, Untermaubach Burgplatz" v="foot_way"/>
+	</way>
+	<way id="44874505" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004487"/>
+		<nd ref="00004505"/>
+		<tag k="Kreuzau, Winden Üdinger Weg" v="foot_way"/>
+	</way>
+	<way id="45554519" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004555"/>
+		<nd ref="00004519"/>
+		<tag k="Langerwehe, Stütgerloch Abzw. Jüngersdorf" v="foot_way"/>
+	</way>
+	<way id="45574550" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004557"/>
+		<nd ref="00004550"/>
+		<tag k="Langerwehe, Jüngersdorf Denkmal" v="foot_way"/>
+	</way>
+	<way id="45194555" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004519"/>
+		<nd ref="00004555"/>
+		<tag k="Langerwehe, Jüngersdorf Holzstraße" v="foot_way"/>
+	</way>
+	<way id="45504557" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004550"/>
+		<nd ref="00004557"/>
+		<tag k="Langerwehe, Jüngersdorf Kapelle" v="foot_way"/>
+	</way>
+	<way id="45694561" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004569"/>
+		<nd ref="00004561"/>
+		<tag k="Langerwehe, Schulzentrum" v="foot_way"/>
+	</way>
+	<way id="45714561" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004571"/>
+		<nd ref="00004561"/>
+		<tag k="Langerwehe, Schulzentrum" v="foot_way"/>
+	</way>
+	<way id="45714563" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004571"/>
+		<nd ref="00004563"/>
+		<tag k="Langerwehe, Amt" v="foot_way"/>
+	</way>
+	<way id="45664565" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004566"/>
+		<nd ref="00004565"/>
+		<tag k="Langerwehe, Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="45754567" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004575"/>
+		<nd ref="00004567"/>
+		<tag k="Langerwehe, Kirche" v="foot_way"/>
+	</way>
+	<way id="45614569" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004561"/>
+		<nd ref="00004569"/>
+		<tag k="Langerwehe, Markt" v="foot_way"/>
+	</way>
+	<way id="45614571" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004561"/>
+		<nd ref="00004571"/>
+		<tag k="Langerwehe, Lochmühle" v="foot_way"/>
+	</way>
+	<way id="45634571" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004563"/>
+		<nd ref="00004571"/>
+		<tag k="Langerwehe, Lochmühle" v="foot_way"/>
+	</way>
+	<way id="45674575" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004567"/>
+		<nd ref="00004575"/>
+		<tag k="Langerwehe, Pastorat" v="foot_way"/>
+	</way>
+	<way id="45854583" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004585"/>
+		<nd ref="00004583"/>
+		<tag k="Langerwehe, Obergeich" v="foot_way"/>
+	</way>
+	<way id="45834585" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004583"/>
+		<nd ref="00004585"/>
+		<tag k="Langerwehe, Obergeich Kapelle" v="foot_way"/>
+	</way>
+	<way id="45924594" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004592"/>
+		<nd ref="00004594"/>
+		<tag k="Linnich, SIG Combibloc Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="46494636" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004649"/>
+		<nd ref="00004636"/>
+		<tag k="Linnich, Rurdorf Zur Frack" v="foot_way"/>
+	</way>
+	<way id="46364649" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004636"/>
+		<nd ref="00004649"/>
+		<tag k="Linnich, Rurdorf Alte Post" v="foot_way"/>
+	</way>
+	<way id="46544653" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004654"/>
+		<nd ref="00004653"/>
+		<tag k="Linnich, Tetz Mitte" v="foot_way"/>
+	</way>
+	<way id="46544656" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004654"/>
+		<nd ref="00004656"/>
+		<tag k="Linnich, Tetz Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="47124711" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004712"/>
+		<nd ref="00004711"/>
+		<tag k="Merzenich, Heide L264" v="foot_way"/>
+	</way>
+	<way id="47384711" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004738"/>
+		<nd ref="00004711"/>
+		<tag k="Merzenich, Heide L264" v="foot_way"/>
+	</way>
+	<way id="47114712" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004711"/>
+		<nd ref="00004712"/>
+		<tag k="Merzenich, S-Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="47384712" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004738"/>
+		<nd ref="00004712"/>
+		<tag k="Merzenich, S-Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="47294727" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004729"/>
+		<nd ref="00004727"/>
+		<tag k="Merzenich, Girbelsrath Kirche" v="foot_way"/>
+	</way>
+	<way id="47274729" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004727"/>
+		<nd ref="00004729"/>
+		<tag k="Merzenich, Girbelsrath Neuwerk" v="foot_way"/>
+	</way>
+	<way id="47354731" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004735"/>
+		<nd ref="00004731"/>
+		<tag k="Merzenich, Golzheim Aachener Straße" v="foot_way"/>
+	</way>
+	<way id="47334732" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004733"/>
+		<nd ref="00004732"/>
+		<tag k="Merzenich, Golzheim Kirche" v="foot_way"/>
+	</way>
+	<way id="47354732" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004735"/>
+		<nd ref="00004732"/>
+		<tag k="Merzenich, Golzheim Kirche" v="foot_way"/>
+	</way>
+	<way id="47324733" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004732"/>
+		<nd ref="00004733"/>
+		<tag k="Merzenich, Golzheim Marienstraße" v="foot_way"/>
+	</way>
+	<way id="47394734" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004739"/>
+		<nd ref="00004734"/>
+		<tag k="Merzenich, Festplatz" v="foot_way"/>
+	</way>
+	<way id="47314735" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004731"/>
+		<nd ref="00004735"/>
+		<tag k="Merzenich, Golzheim Schule" v="foot_way"/>
+	</way>
+	<way id="47324735" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004732"/>
+		<nd ref="00004735"/>
+		<tag k="Merzenich, Golzheim Schule" v="foot_way"/>
+	</way>
+	<way id="47344739" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004734"/>
+		<nd ref="00004739"/>
+		<tag k="Merzenich, Friedhof" v="foot_way"/>
+	</way>
+	<way id="47414739" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004741"/>
+		<nd ref="00004739"/>
+		<tag k="Merzenich, Friedhof" v="foot_way"/>
+	</way>
+	<way id="47454739" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004745"/>
+		<nd ref="00004739"/>
+		<tag k="Merzenich, Friedhof" v="foot_way"/>
+	</way>
+	<way id="47394741" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004739"/>
+		<nd ref="00004741"/>
+		<tag k="Merzenich, Lindenplatz" v="foot_way"/>
+	</way>
+	<way id="47394745" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004739"/>
+		<nd ref="00004745"/>
+		<tag k="Merzenich, West" v="foot_way"/>
+	</way>
+	<way id="47464745" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004746"/>
+		<nd ref="00004745"/>
+		<tag k="Merzenich, West" v="foot_way"/>
+	</way>
+	<way id="47514747" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004751"/>
+		<nd ref="00004747"/>
+		<tag k="Merzenich, Mühlenstraße" v="foot_way"/>
+	</way>
+	<way id="47534749" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004753"/>
+		<nd ref="00004749"/>
+		<tag k="Merzenich, Poolplatz" v="foot_way"/>
+	</way>
+	<way id="47474751" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004747"/>
+		<nd ref="00004751"/>
+		<tag k="Merzenich, Schützenstraße" v="foot_way"/>
+	</way>
+	<way id="47494753" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004749"/>
+		<nd ref="00004753"/>
+		<tag k="Merzenich, Weinberg" v="foot_way"/>
+	</way>
+	<way id="48274796" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004827"/>
+		<nd ref="00004796"/>
+		<tag k="Monschau, Kalterherberg Bahnhof" v="foot_way"/>
+	</way>
+	<way id="48154813" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004815"/>
+		<nd ref="00004813"/>
+		<tag k="Monschau, Imgenbroich Dürr" v="foot_way"/>
+	</way>
+	<way id="48134815" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004813"/>
+		<nd ref="00004815"/>
+		<tag k="Monschau, Imgenbroich Nord" v="foot_way"/>
+	</way>
+	<way id="48194815" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004819"/>
+		<nd ref="00004815"/>
+		<tag k="Monschau, Imgenbroich Nord" v="foot_way"/>
+	</way>
+	<way id="48154819" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004815"/>
+		<nd ref="00004819"/>
+		<tag k="Monschau, Imgenbroich Schlosserei" v="foot_way"/>
+	</way>
+	<way id="47964827" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004796"/>
+		<nd ref="00004827"/>
+		<tag k="Monschau, Kalterherberg Kirche" v="foot_way"/>
+	</way>
+	<way id="48444843" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004844"/>
+		<nd ref="00004843"/>
+		<tag k="Monschau, Konzen Kirche" v="foot_way"/>
+	</way>
+	<way id="48754853" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004875"/>
+		<nd ref="00004853"/>
+		<tag k="Monschau, Vennbad" v="foot_way"/>
+	</way>
+	<way id="48534875" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004853"/>
+		<nd ref="00004875"/>
+		<tag k="Monschau, Biesweg/Vennbad" v="foot_way"/>
+	</way>
+	<way id="48804879" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004880"/>
+		<nd ref="00004879"/>
+		<tag k="Monschau, Mützenich Kirche" v="foot_way"/>
+	</way>
+	<way id="49194900" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004919"/>
+		<nd ref="00004900"/>
+		<tag k="Hürtgenwald, Zerkall (Ort)" v="foot_way"/>
+	</way>
+	<way id="49054903" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004905"/>
+		<nd ref="00004903"/>
+		<tag k="Nideggen, Berg Im Pesch" v="foot_way"/>
+	</way>
+	<way id="49034905" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004903"/>
+		<nd ref="00004905"/>
+		<tag k="Nideggen, Berg Kirche" v="foot_way"/>
+	</way>
+	<way id="49114909" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004911"/>
+		<nd ref="00004909"/>
+		<tag k="Nideggen, Brück (Ort)" v="foot_way"/>
+	</way>
+	<way id="49114912" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004911"/>
+		<nd ref="00004912"/>
+		<tag k="Nideggen, Brück Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="49954994" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004995"/>
+		<nd ref="00004994"/>
+		<tag k="Niederzier, Huchem-Stammeln Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="50035004" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005003"/>
+		<nd ref="00005004"/>
+		<tag k="Niederzier, Krauthausen Aachener Straße" v="foot_way"/>
+	</way>
+	<way id="50315032" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005031"/>
+		<nd ref="00005032"/>
+		<tag k="Niederzier, Selhausen (Ort)" v="foot_way"/>
+	</way>
+	<way id="50365033" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005036"/>
+		<nd ref="00005033"/>
+		<tag k="Nörvenich, Binsfeld Sportplatz" v="foot_way"/>
+	</way>
+	<way id="50445043" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005044"/>
+		<nd ref="00005043"/>
+		<tag k="Nörvenich, Bubenheim" v="foot_way"/>
+	</way>
+	<way id="52265215" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005226"/>
+		<nd ref="00005215"/>
+		<tag k="Roetgen, Pilgerborn" v="foot_way"/>
+	</way>
+	<way id="52395237" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005239"/>
+		<nd ref="00005237"/>
+		<tag k="Roetgen, Rott Kirche" v="foot_way"/>
+	</way>
+	<way id="52415237" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005241"/>
+		<nd ref="00005237"/>
+		<tag k="Roetgen, Rott Kirche" v="foot_way"/>
+	</way>
+	<way id="52375239" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005237"/>
+		<nd ref="00005239"/>
+		<tag k="Roetgen, Rott Königsberger Straße" v="foot_way"/>
+	</way>
+	<way id="52415239" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005241"/>
+		<nd ref="00005239"/>
+		<tag k="Roetgen, Rott Königsberger Straße" v="foot_way"/>
+	</way>
+	<way id="52375241" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005237"/>
+		<nd ref="00005241"/>
+		<tag k="Roetgen, Rott Roetgener Straße" v="foot_way"/>
+	</way>
+	<way id="52395241" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005239"/>
+		<nd ref="00005241"/>
+		<tag k="Roetgen, Rott Roetgener Straße" v="foot_way"/>
+	</way>
+	<way id="52485243" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005248"/>
+		<nd ref="00005243"/>
+		<tag k="Schleiden, Morsbach Vogelsang I P Walberhof (B266)" v="foot_way"/>
+	</way>
+	<way id="53115301" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005311"/>
+		<nd ref="00005301"/>
+		<tag k="Selfkant, Heilder" v="foot_way"/>
+	</way>
+	<way id="53015311" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005301"/>
+		<nd ref="00005311"/>
+		<tag k="Selfkant, Höngen Molkerei" v="foot_way"/>
+	</way>
+	<way id="53365335" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005336"/>
+		<nd ref="00005335"/>
+		<tag k="Selfkant, Schalbruch" v="foot_way"/>
+	</way>
+	<way id="53355336" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005335"/>
+		<nd ref="00005336"/>
+		<tag k="Selfkant, Schalbruch Schule" v="foot_way"/>
+	</way>
+	<way id="53395337" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005339"/>
+		<nd ref="00005337"/>
+		<tag k="Selfkant, Süsterseel Karl-Arnold Straße" v="foot_way"/>
+	</way>
+	<way id="53475337" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005347"/>
+		<nd ref="00005337"/>
+		<tag k="Selfkant, Süsterseel Karl-Arnold Straße" v="foot_way"/>
+	</way>
+	<way id="53375339" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005337"/>
+		<nd ref="00005339"/>
+		<tag k="Selfkant, Süsterseel Bundesstraße" v="foot_way"/>
+	</way>
+	<way id="53475339" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005347"/>
+		<nd ref="00005339"/>
+		<tag k="Selfkant, Süsterseel Bundesstraße" v="foot_way"/>
+	</way>
+	<way id="53375347" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005337"/>
+		<nd ref="00005347"/>
+		<tag k="Selfkant, Süsterseel Wehrer Bahnhof" v="foot_way"/>
+	</way>
+	<way id="53395347" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005339"/>
+		<nd ref="00005347"/>
+		<tag k="Selfkant, Süsterseel Wehrer Bahnhof" v="foot_way"/>
+	</way>
+	<way id="53565357" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005356"/>
+		<nd ref="00005357"/>
+		<tag k="Selfkant, Wehr" v="foot_way"/>
+	</way>
+	<way id="54355360" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005435"/>
+		<nd ref="00005360"/>
+		<tag k="Simmerath, Rollesbroich Am Mühlenweg" v="foot_way"/>
+	</way>
+	<way id="54175407" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005417"/>
+		<nd ref="00005407"/>
+		<tag k="Simmerath, Lammersdorf Ev. Gemeindehaus" v="foot_way"/>
+	</way>
+	<way id="54215409" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005421"/>
+		<nd ref="00005409"/>
+		<tag k="Simmerath, Lammersdorf Grundschule" v="foot_way"/>
+	</way>
+	<way id="54075417" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005407"/>
+		<nd ref="00005417"/>
+		<tag k="Simmerath, Lammersdorf Bahnhof" v="foot_way"/>
+	</way>
+	<way id="54095421" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005409"/>
+		<nd ref="00005421"/>
+		<tag k="Simmerath, Lammersdorf Kirche" v="foot_way"/>
+	</way>
+	<way id="53605435" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005360"/>
+		<nd ref="00005435"/>
+		<tag k="Simmerath, Rollesbroich" v="foot_way"/>
+	</way>
+	<way id="54565449" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005456"/>
+		<nd ref="00005449"/>
+		<tag k="Simmerath, Gewerbegebiet" v="foot_way"/>
+	</way>
+	<way id="54495456" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005449"/>
+		<nd ref="00005456"/>
+		<tag k="Simmerath, Thelen" v="foot_way"/>
+	</way>
+	<way id="54675463" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005467"/>
+		<nd ref="00005463"/>
+		<tag k="Simmerath, Steckenb. Hechelscheid Höhe/Wolfsgasse" v="foot_way"/>
+	</way>
+	<way id="54635467" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005463"/>
+		<nd ref="00005467"/>
+		<tag k="Simmerath, Steckenborn Hechelscheid Wolfsgasse" v="foot_way"/>
+	</way>
+	<way id="54775473" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005477"/>
+		<nd ref="00005473"/>
+		<tag k="Simmerath, Strauch Am Kreuzchen" v="foot_way"/>
+	</way>
+	<way id="54735477" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005473"/>
+		<nd ref="00005477"/>
+		<tag k="Simmerath, Strauch Geflügelhof" v="foot_way"/>
+	</way>
+	<way id="54815479" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005481"/>
+		<nd ref="00005479"/>
+		<tag k="Simmerath, Strauch Kirche" v="foot_way"/>
+	</way>
+	<way id="54795481" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005479"/>
+		<nd ref="00005481"/>
+		<tag k="Simmerath, Strauch Post" v="foot_way"/>
+	</way>
+	<way id="55415537" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005541"/>
+		<nd ref="00005537"/>
+		<tag k="Stolberg, Atsch Kirche" v="foot_way"/>
+	</way>
+	<way id="55375541" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005537"/>
+		<nd ref="00005541"/>
+		<tag k="Stolberg, Atsch Schule" v="foot_way"/>
+	</way>
+	<way id="55465547" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005546"/>
+		<nd ref="00005547"/>
+		<tag k="Stolberg, Breinig Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="55855579" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005585"/>
+		<nd ref="00005579"/>
+		<tag k="Stolberg, Büsbach Friedhof" v="foot_way"/>
+	</way>
+	<way id="55795585" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005579"/>
+		<nd ref="00005585"/>
+		<tag k="Stolberg, Büsbach Tiefental" v="foot_way"/>
+	</way>
+	<way id="56025601" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005602"/>
+		<nd ref="00005601"/>
+		<tag k="Stolberg, Mausbach Rothe Gasse" v="foot_way"/>
+	</way>
+	<way id="56015602" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005601"/>
+		<nd ref="00005602"/>
+		<tag k="Stolberg, Mausbach Am Wimblech" v="foot_way"/>
+	</way>
+	<way id="56125611" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005612"/>
+		<nd ref="00005611"/>
+		<tag k="Stolberg, Donnerberg Duffenter" v="foot_way"/>
+	</way>
+	<way id="56115612" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005611"/>
+		<nd ref="00005612"/>
+		<tag k="Stolberg, Donnerberg Duffenter Höhenstraße" v="foot_way"/>
+	</way>
+	<way id="56965693" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005696"/>
+		<nd ref="00005693"/>
+		<tag k="Stolberg, Liester" v="foot_way"/>
+	</way>
+	<way id="56935696" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005693"/>
+		<nd ref="00005696"/>
+		<tag k="Stolberg, Liester Schulzentrum" v="foot_way"/>
+	</way>
+	<way id="57355717" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005735"/>
+		<nd ref="00005717"/>
+		<tag k="Stolberg, Dienstleistungszentrum" v="foot_way"/>
+	</way>
+	<way id="57175735" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005717"/>
+		<nd ref="00005735"/>
+		<tag k="Stolberg, Zinkhütter Hof" v="foot_way"/>
+	</way>
+	<way id="57585757" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005758"/>
+		<nd ref="00005757"/>
+		<tag k="Stolberg, Atsch Schneidmühle (Bus)" v="foot_way"/>
+	</way>
+	<way id="57665765" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005766"/>
+		<nd ref="00005765"/>
+		<tag k="Stolberg, Hauptbahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="57955775" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005795"/>
+		<nd ref="00005775"/>
+		<tag k="Stolberg, Lohrstraße" v="foot_way"/>
+	</way>
+	<way id="57865785" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005786"/>
+		<nd ref="00005785"/>
+		<tag k="Stolberg, Mühlener Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="57885787" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005788"/>
+		<nd ref="00005787"/>
+		<tag k="Stolberg, Altstadt (Bus)" v="foot_way"/>
+	</way>
+	<way id="57925791" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005792"/>
+		<nd ref="00005791"/>
+		<tag k="Stolberg, Rathaus (Bus)" v="foot_way"/>
+	</way>
+	<way id="57755795" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005775"/>
+		<nd ref="00005795"/>
+		<tag k="Stolberg, Von-Werner-Straße" v="foot_way"/>
+	</way>
+	<way id="57995797" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005799"/>
+		<nd ref="00005797"/>
+		<tag k="Stolberg, Venwegen Kirche" v="foot_way"/>
+	</way>
+	<way id="57975799" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005797"/>
+		<nd ref="00005799"/>
+		<tag k="Stolberg, Venwegen Kochsgasse" v="foot_way"/>
+	</way>
+	<way id="58035801" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005803"/>
+		<nd ref="00005801"/>
+		<tag k="Stolberg, Venwegen Rainweg" v="foot_way"/>
+	</way>
+	<way id="58015803" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005801"/>
+		<nd ref="00005803"/>
+		<tag k="Stolberg, Venwegen Süd" v="foot_way"/>
+	</way>
+	<way id="58055803" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005805"/>
+		<nd ref="00005803"/>
+		<tag k="Stolberg, Venwegen Süd" v="foot_way"/>
+	</way>
+	<way id="58035805" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005803"/>
+		<nd ref="00005805"/>
+		<tag k="Stolberg, Venwegen Teichstraße" v="foot_way"/>
+	</way>
+	<way id="58375835" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005837"/>
+		<nd ref="00005835"/>
+		<tag k="Titz, Ameln" v="foot_way"/>
+	</way>
+	<way id="58395835" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005839"/>
+		<nd ref="00005835"/>
+		<tag k="Titz, Ameln" v="foot_way"/>
+	</way>
+	<way id="58355837" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005835"/>
+		<nd ref="00005837"/>
+		<tag k="Titz, Ameln Grüner Weg" v="foot_way"/>
+	</way>
+	<way id="58355839" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005835"/>
+		<nd ref="00005839"/>
+		<tag k="Titz, Ameln Meerhofstraße" v="foot_way"/>
+	</way>
+	<way id="58405839" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005840"/>
+		<nd ref="00005839"/>
+		<tag k="Titz, Ameln Meerhofstraße" v="foot_way"/>
+	</way>
+	<way id="58395840" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005839"/>
+		<nd ref="00005840"/>
+		<tag k="Titz, Ameln Hauptstraße (Schulbus)" v="foot_way"/>
+	</way>
+	<way id="58705869" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005870"/>
+		<nd ref="00005869"/>
+		<tag k="Titz, Kalrath" v="foot_way"/>
+	</way>
+	<way id="59095901" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005909"/>
+		<nd ref="00005901"/>
+		<tag k="Übach-Palenberg, Boscheln Brünestraße" v="foot_way"/>
+	</way>
+	<way id="59775901" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005977"/>
+		<nd ref="00005901"/>
+		<tag k="Übach-Palenberg, Boscheln Brünestraße" v="foot_way"/>
+	</way>
+	<way id="59015909" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005901"/>
+		<nd ref="00005909"/>
+		<tag k="Übach-Palenberg, Boscheln Carl-Alexander-Straße" v="foot_way"/>
+	</way>
+	<way id="59675943" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005967"/>
+		<nd ref="00005943"/>
+		<tag k="Übach-Palenberg, Palenberg Evangelische Kirche" v="foot_way"/>
+	</way>
+	<way id="59525951" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005952"/>
+		<nd ref="00005951"/>
+		<tag k="Übach-Palenberg, Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="59105965" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005910"/>
+		<nd ref="00005965"/>
+		<tag k="Übach-Palenberg, Holthausen" v="foot_way"/>
+	</way>
+	<way id="59435967" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005943"/>
+		<nd ref="00005967"/>
+		<tag k="Übach-Palenberg, Übach Maastrichter Straße" v="foot_way"/>
+	</way>
+	<way id="59815969" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005981"/>
+		<nd ref="00005969"/>
+		<tag k="Übach-Palenberg, Übach Talstraße" v="foot_way"/>
+	</way>
+	<way id="59015977" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005901"/>
+		<nd ref="00005977"/>
+		<tag k="Übach-Palenberg, Boscheln Friedensstraße" v="foot_way"/>
+	</way>
+	<way id="59695981" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005969"/>
+		<nd ref="00005981"/>
+		<tag k="Übach-Palenberg, Übach Kirche" v="foot_way"/>
+	</way>
+	<way id="17456015" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001745"/>
+		<nd ref="00006015"/>
+		<tag k="Vaals, Maastrichterlaan/Bosstraat" v="foot_way"/>
+	</way>
+	<way id="60256015" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006025"/>
+		<nd ref="00006015"/>
+		<tag k="Vaals, Maastrichterlaan/Bosstraat" v="foot_way"/>
+	</way>
+	<way id="17456025" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001745"/>
+		<nd ref="00006025"/>
+		<tag k="Vaals, Busstation" v="foot_way"/>
+	</way>
+	<way id="60156025" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006015"/>
+		<nd ref="00006025"/>
+		<tag k="Vaals, Busstation" v="foot_way"/>
+	</way>
+	<way id="60476045" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006047"/>
+		<nd ref="00006045"/>
+		<tag k="Vettweiß, Gladbach" v="foot_way"/>
+	</way>
+	<way id="60456047" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006045"/>
+		<nd ref="00006047"/>
+		<tag k="Vettweiß, Gladbach Kirche" v="foot_way"/>
+	</way>
+	<way id="60526051" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006052"/>
+		<nd ref="00006051"/>
+		<tag k="Vettweiß, Jakobwüllesheim (Bus)" v="foot_way"/>
+	</way>
+	<way id="60746075" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006074"/>
+		<nd ref="00006075"/>
+		<tag k="Vettweiß, Markt" v="foot_way"/>
+	</way>
+	<way id="61756173" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006175"/>
+		<nd ref="00006173"/>
+		<tag k="Wassenberg, Myhl Erkelenzer Straße" v="foot_way"/>
+	</way>
+	<way id="61736175" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006173"/>
+		<nd ref="00006175"/>
+		<tag k="Wassenberg, Myhl Feuerwehr" v="foot_way"/>
+	</way>
+	<way id="62086221" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006208"/>
+		<nd ref="00006221"/>
+		<tag k="Wegberg, Arsbeck Roermonder Bahn" v="foot_way"/>
+	</way>
+	<way id="62346233" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006234"/>
+		<nd ref="00006233"/>
+		<tag k="Wegberg, Dalheim Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="63456323" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006345"/>
+		<nd ref="00006323"/>
+		<tag k="Wegberg, Watern Haus St. Georg" v="foot_way"/>
+	</way>
+	<way id="63476323" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006347"/>
+		<nd ref="00006323"/>
+		<tag k="Wegberg, Watern Haus St. Georg" v="foot_way"/>
+	</way>
+	<way id="63406339" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006340"/>
+		<nd ref="00006339"/>
+		<tag k="Wegberg, Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="63236345" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006323"/>
+		<nd ref="00006345"/>
+		<tag k="Wegberg, Busbahnhof" v="foot_way"/>
+	</way>
+	<way id="63236347" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006323"/>
+		<nd ref="00006347"/>
+		<tag k="Wegberg, Grundschule" v="foot_way"/>
+	</way>
+	<way id="63976387" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006397"/>
+		<nd ref="00006387"/>
+		<tag k="Würselen, Dobach" v="foot_way"/>
+	</way>
+	<way id="63956389" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006395"/>
+		<nd ref="00006389"/>
+		<tag k="Würselen, Rhein-Maas Klinik" v="foot_way"/>
+	</way>
+	<way id="63896395" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006389"/>
+		<nd ref="00006395"/>
+		<tag k="Würselen, Salmanusstraße (Rhein-Maas Klinik)" v="foot_way"/>
+	</way>
+	<way id="63876397" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006387"/>
+		<nd ref="00006397"/>
+		<tag k="Würselen, Broichweiden Sankt Jobs" v="foot_way"/>
+	</way>
+	<way id="64476443" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006447"/>
+		<nd ref="00006443"/>
+		<tag k="Würselen, Broichweiden Neusen Fronhofstraße" v="foot_way"/>
+	</way>
+	<way id="64436447" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006443"/>
+		<nd ref="00006447"/>
+		<tag k="Würselen, Broichweiden Neusen Mozartstraße" v="foot_way"/>
+	</way>
+	<way id="64786453" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006478"/>
+		<nd ref="00006453"/>
+		<tag k="Würselen, Paulinenstraße" v="foot_way"/>
+	</way>
+	<way id="64636458" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006463"/>
+		<nd ref="00006458"/>
+		<tag k="Würselen, Drischer Straße" v="foot_way"/>
+	</way>
+	<way id="64586463" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006458"/>
+		<nd ref="00006463"/>
+		<tag k="Würselen, Jugendheim" v="foot_way"/>
+	</way>
+	<way id="64816463" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006481"/>
+		<nd ref="00006463"/>
+		<tag k="Würselen, Jugendheim" v="foot_way"/>
+	</way>
+	<way id="64766473" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006476"/>
+		<nd ref="00006473"/>
+		<tag k="Würselen, Bahnhofstraße" v="foot_way"/>
+	</way>
+	<way id="64816473" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006481"/>
+		<nd ref="00006473"/>
+		<tag k="Würselen, Bahnhofstraße" v="foot_way"/>
+	</way>
+	<way id="64786475" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006478"/>
+		<nd ref="00006475"/>
+		<tag k="Würselen, Klosterstraße" v="foot_way"/>
+	</way>
+	<way id="64736476" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006473"/>
+		<nd ref="00006476"/>
+		<tag k="Würselen, Lehnstraße" v="foot_way"/>
+	</way>
+	<way id="64816476" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006481"/>
+		<nd ref="00006476"/>
+		<tag k="Würselen, Lehnstraße" v="foot_way"/>
+	</way>
+	<way id="64786477" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006478"/>
+		<nd ref="00006477"/>
+		<tag k="Würselen, Markt" v="foot_way"/>
+	</way>
+	<way id="64816477" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006481"/>
+		<nd ref="00006477"/>
+		<tag k="Würselen, Markt" v="foot_way"/>
+	</way>
+	<way id="64536478" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006453"/>
+		<nd ref="00006478"/>
+		<tag k="Würselen, Realschule Tittelstraße" v="foot_way"/>
+	</way>
+	<way id="64756478" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006475"/>
+		<nd ref="00006478"/>
+		<tag k="Würselen, Realschule Tittelstraße" v="foot_way"/>
+	</way>
+	<way id="64776478" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006477"/>
+		<nd ref="00006478"/>
+		<tag k="Würselen, Realschule Tittelstraße" v="foot_way"/>
+	</way>
+	<way id="64636481" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006463"/>
+		<nd ref="00006481"/>
+		<tag k="Würselen, Rathaus" v="foot_way"/>
+	</way>
+	<way id="64736481" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006473"/>
+		<nd ref="00006481"/>
+		<tag k="Würselen, Rathaus" v="foot_way"/>
+	</way>
+	<way id="64766481" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006476"/>
+		<nd ref="00006481"/>
+		<tag k="Würselen, Rathaus" v="foot_way"/>
+	</way>
+	<way id="64776481" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006477"/>
+		<nd ref="00006481"/>
+		<tag k="Würselen, Rathaus" v="foot_way"/>
+	</way>
+	<way id="65426541" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006542"/>
+		<nd ref="00006541"/>
+		<tag k="Zülpich, Nemmenich" v="foot_way"/>
+	</way>
+	<way id="65516547" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006551"/>
+		<nd ref="00006547"/>
+		<tag k="Zülpich, Ülpenich Ringstraße" v="foot_way"/>
+	</way>
+	<way id="65476551" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006547"/>
+		<nd ref="00006551"/>
+		<tag k="Zülpich, Ülpenich" v="foot_way"/>
+	</way>
+	<way id="19891982" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001989"/>
+		<nd ref="00001982"/>
+		<tag k="Alsdorf, Kellersberg Nordring" v="foot_way"/>
+	</way>
+	<way id="59655910" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005965"/>
+		<nd ref="00005910"/>
+		<tag k="Übach-Palenberg, Boscheln Grüner Weg" v="foot_way"/>
+	</way>
+	<way id="42174218" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004217"/>
+		<nd ref="00004218"/>
+		<tag k="Jülich, Forschungszentrum Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="31743176" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003174"/>
+		<nd ref="00003176"/>
+		<tag k="Gangelt, Mindergangelt Am Wald" v="foot_way"/>
+	</way>
+	<way id="20942096" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002094"/>
+		<nd ref="00002096"/>
+		<tag k="Baesweiler, CAP Landschaftsader" v="foot_way"/>
+	</way>
+	<way id="13371338" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001337"/>
+		<nd ref="00001338"/>
+		<tag k="Aachen, Gut Neuenhof" v="foot_way"/>
+	</way>
+	<way id="14891338" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001489"/>
+		<nd ref="00001338"/>
+		<tag k="Aachen, Gut Neuenhof" v="foot_way"/>
+	</way>
+	<way id="12601256" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001260"/>
+		<nd ref="00001256"/>
+		<tag k="Aachen, Eilendorf Nirm Am Tunnel" v="foot_way"/>
+	</way>
+	<way id="58695870" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005869"/>
+		<nd ref="00005870"/>
+		<tag k="Titz, Kalrath Lommertzheimstraße" v="foot_way"/>
+	</way>
+	<way id="27512748" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002751"/>
+		<nd ref="00002748"/>
+		<tag k="Erkelenz, Lövenich Schweizerstraße" v="foot_way"/>
+	</way>
+	<way id="27532748" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002753"/>
+		<nd ref="00002748"/>
+		<tag k="Erkelenz, Lövenich Schweizerstraße" v="foot_way"/>
+	</way>
+	<way id="20962094" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002096"/>
+		<nd ref="00002094"/>
+		<tag k="Baesweiler, CAP Kreisverkehr" v="foot_way"/>
+	</way>
+	<way id="10731074" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001073"/>
+		<nd ref="00001074"/>
+		<tag k="Aachen, Lombardenstraße" v="foot_way"/>
+	</way>
+	<way id="10791074" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001079"/>
+		<nd ref="00001074"/>
+		<tag k="Aachen, Lombardenstraße" v="foot_way"/>
+	</way>
+	<way id="35883590" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003588"/>
+		<nd ref="00003590"/>
+		<tag k="Heinsberg, Porselen Bendengasse" v="foot_way"/>
+	</way>
+	<way id="48434844" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004843"/>
+		<nd ref="00004844"/>
+		<tag k="Monschau, Konzen Grundschule" v="foot_way"/>
+	</way>
+	<way id="48794880" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004879"/>
+		<nd ref="00004880"/>
+		<tag k="Monschau, Mützenich Grundschule" v="foot_way"/>
+	</way>
+	<way id="18471848" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001847"/>
+		<nd ref="00001848"/>
+		<tag k="Alsdorf, Linnicher Straße" v="foot_way"/>
+	</way>
+	<way id="19001898" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001900"/>
+		<nd ref="00001898"/>
+		<tag k="Alsdorf, Kellersberg Friedensplatz/Bahnhof" v="foot_way"/>
+	</way>
+	<way id="28552840" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002855"/>
+		<nd ref="00002840"/>
+		<tag k="Eschweiler, Burgstraße" v="foot_way"/>
+	</way>
+	<way id="35853584" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003585"/>
+		<nd ref="00003584"/>
+		<tag k="Heinsberg, Oberbruch Parkstraße" v="foot_way"/>
+	</way>
+	<way id="47654760" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004765"/>
+		<nd ref="00004760"/>
+		<tag k="Mönchengladbach, Bau" v="foot_way"/>
+	</way>
+	<way id="38413846" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003841"/>
+		<nd ref="00003846"/>
+		<tag k="Kerkrade, Bleijerheide Schummerstraat" v="foot_way"/>
+	</way>
+	<way id="38473846" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003847"/>
+		<nd ref="00003846"/>
+		<tag k="Kerkrade, Bleijerheide Schummerstraat" v="foot_way"/>
+	</way>
+	<way id="50435044" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005043"/>
+		<nd ref="00005044"/>
+		<tag k="Nörvenich, Bubenheim Bf (Spieleland)" v="foot_way"/>
+	</way>
+	<way id="37673768" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003767"/>
+		<nd ref="00003768"/>
+		<tag k="Herzogenrath, Merkstein August-Schmidt-Platz Bf" v="foot_way"/>
+	</way>
+	<way id="28252860" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002825"/>
+		<nd ref="00002860"/>
+		<tag k="Eschweiler, Talbahnhof/Raiffeisen-Platz Bf" v="foot_way"/>
+	</way>
+	<way id="28592860" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002859"/>
+		<nd ref="00002860"/>
+		<tag k="Eschweiler, Talbahnhof/Raiffeisen-Platz Bf" v="foot_way"/>
+	</way>
+	<way id="25032509" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002503"/>
+		<nd ref="00002509"/>
+		<tag k="Düren, Renkerstraße/ Krankenhaus Bf" v="foot_way"/>
+	</way>
+	<way id="25082509" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002508"/>
+		<nd ref="00002509"/>
+		<tag k="Düren, Renkerstraße/ Krankenhaus Bf" v="foot_way"/>
+	</way>
+	<way id="24262427" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002426"/>
+		<nd ref="00002427"/>
+		<tag k="Düren, Birkesdorf Im großen Tal Bf" v="foot_way"/>
+	</way>
+	<way id="44954493" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004495"/>
+		<nd ref="00004493"/>
+		<tag k="Kreuzau, Untermaubach-Schlagstein Bf" v="foot_way"/>
+	</way>
+	<way id="37613764" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003761"/>
+		<nd ref="00003764"/>
+		<tag k="Herzogenrath, Merkstein Alt-Merkstein Bf" v="foot_way"/>
+	</way>
+	<way id="37753764" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003775"/>
+		<nd ref="00003764"/>
+		<tag k="Herzogenrath, Merkstein Alt-Merkstein Bf" v="foot_way"/>
+	</way>
+	<way id="37853764" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003785"/>
+		<nd ref="00003764"/>
+		<tag k="Herzogenrath, Merkstein Alt-Merkstein Bf" v="foot_way"/>
+	</way>
+	<way id="37873764" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003787"/>
+		<nd ref="00003764"/>
+		<tag k="Herzogenrath, Merkstein Alt-Merkstein Bf" v="foot_way"/>
+	</way>
+	<way id="37933764" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003793"/>
+		<nd ref="00003764"/>
+		<tag k="Herzogenrath, Merkstein Alt-Merkstein Bf" v="foot_way"/>
+	</way>
+	<way id="29332932" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002933"/>
+		<nd ref="00002932"/>
+		<tag k="Eschweiler, Nothberg Bf" v="foot_way"/>
+	</way>
+	<way id="25402541" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002540"/>
+		<nd ref="00002541"/>
+		<tag k="Düren, Niederau-Tuchmühle Bf" v="foot_way"/>
+	</way>
+	<way id="42184217" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004218"/>
+		<nd ref="00004217"/>
+		<tag k="Jülich, Forschungszentrum Bf" v="foot_way"/>
+	</way>
+	<way id="42194217" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004219"/>
+		<nd ref="00004217"/>
+		<tag k="Jülich, Forschungszentrum Bf" v="foot_way"/>
+	</way>
+	<way id="22522251" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002252"/>
+		<nd ref="00002251"/>
+		<tag k="Düren, Annakirmesplatz Bf" v="foot_way"/>
+	</way>
+	<way id="23052251" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002305"/>
+		<nd ref="00002251"/>
+		<tag k="Düren, Annakirmesplatz Bf" v="foot_way"/>
+	</way>
+	<way id="23892251" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002389"/>
+		<nd ref="00002251"/>
+		<tag k="Düren, Annakirmesplatz Bf" v="foot_way"/>
+	</way>
+	<way id="49944995" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004994"/>
+		<nd ref="00004995"/>
+		<tag k="Niederzier, Huchem-Stammeln Bf" v="foot_way"/>
+	</way>
+	<way id="60516052" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006051"/>
+		<nd ref="00006052"/>
+		<tag k="Vettweiß, Jakobwüllesheim Bf" v="foot_way"/>
+	</way>
+	<way id="45944592" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004594"/>
+		<nd ref="00004592"/>
+		<tag k="Linnich, SIG Combibloc Bf" v="foot_way"/>
+	</way>
+	<way id="57575758" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005757"/>
+		<nd ref="00005758"/>
+		<tag k="Stolberg, Schneidmühle Bf" v="foot_way"/>
+	</way>
+	<way id="47454746" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004745"/>
+		<nd ref="00004746"/>
+		<tag k="Merzenich, Dürener Straße" v="foot_way"/>
+	</way>
+	<way id="18981900" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001898"/>
+		<nd ref="00001900"/>
+		<tag k="Alsdorf, Kellersberg Bf" v="foot_way"/>
+	</way>
+	<way id="18991900" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001899"/>
+		<nd ref="00001900"/>
+		<tag k="Alsdorf, Kellersberg Bf" v="foot_way"/>
+	</way>
+	<way id="24852493" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002485"/>
+		<nd ref="00002493"/>
+		<tag k="Düren, Lendersdorf Bf" v="foot_way"/>
+	</way>
+	<way id="25032493" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002503"/>
+		<nd ref="00002493"/>
+		<tag k="Düren, Lendersdorf Bf" v="foot_way"/>
+	</way>
+	<way id="50045003" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005004"/>
+		<nd ref="00005003"/>
+		<tag k="Niederzier, Krauthausen Bf" v="foot_way"/>
+	</way>
+	<way id="44534441" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004453"/>
+		<nd ref="00004441"/>
+		<tag k="Kreuzau, Eifelstraße Bf" v="foot_way"/>
+	</way>
+	<way id="44674463" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004467"/>
+		<nd ref="00004463"/>
+		<tag k="Kreuzau, Obermaubach Bf" v="foot_way"/>
+	</way>
+	<way id="42554253" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004255"/>
+		<nd ref="00004253"/>
+		<tag k="Jülich, Selgersdorf Bf" v="foot_way"/>
+	</way>
+	<way id="42574253" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004257"/>
+		<nd ref="00004253"/>
+		<tag k="Jülich, Selgersdorf Bf" v="foot_way"/>
+	</way>
+	<way id="29133020" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002913"/>
+		<nd ref="00003020"/>
+		<tag k="Eschweiler, Weisweiler Bf" v="foot_way"/>
+	</way>
+	<way id="30213020" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003021"/>
+		<nd ref="00003020"/>
+		<tag k="Eschweiler, Weisweiler Bf" v="foot_way"/>
+	</way>
+	<way id="30243020" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003024"/>
+		<nd ref="00003020"/>
+		<tag k="Eschweiler, Weisweiler Bf" v="foot_way"/>
+	</way>
+	<way id="19151916" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001915"/>
+		<nd ref="00001916"/>
+		<tag k="Alsdorf, Poststraße Bf" v="foot_way"/>
+	</way>
+	<way id="19171916" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001917"/>
+		<nd ref="00001916"/>
+		<tag k="Alsdorf, Poststraße Bf" v="foot_way"/>
+	</way>
+	<way id="19181916" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001918"/>
+		<nd ref="00001916"/>
+		<tag k="Alsdorf, Poststraße Bf" v="foot_way"/>
+	</way>
+	<way id="19911916" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001991"/>
+		<nd ref="00001916"/>
+		<tag k="Alsdorf, Poststraße Bf" v="foot_way"/>
+	</way>
+	<way id="19971916" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001997"/>
+		<nd ref="00001916"/>
+		<tag k="Alsdorf, Poststraße Bf" v="foot_way"/>
+	</way>
+	<way id="36493750" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003649"/>
+		<nd ref="00003750"/>
+		<tag k="Herzogenrath, Kohlscheid Bf" v="foot_way"/>
+	</way>
+	<way id="37493750" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003749"/>
+		<nd ref="00003750"/>
+		<tag k="Herzogenrath, Kohlscheid Bf" v="foot_way"/>
+	</way>
+	<way id="37573750" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003757"/>
+		<nd ref="00003750"/>
+		<tag k="Herzogenrath, Kohlscheid Bf" v="foot_way"/>
+	</way>
+	<way id="16451646" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001645"/>
+		<nd ref="00001646"/>
+		<tag k="Aachen, Rothe Erde Bf" v="foot_way"/>
+	</way>
+	<way id="16551646" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001655"/>
+		<nd ref="00001646"/>
+		<tag k="Aachen, Rothe Erde Bf" v="foot_way"/>
+	</way>
+	<way id="34893490" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003489"/>
+		<nd ref="00003490"/>
+		<tag k="Heinsberg, Oberbruch Bf" v="foot_way"/>
+	</way>
+	<way id="34923490" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003492"/>
+		<nd ref="00003490"/>
+		<tag k="Heinsberg, Oberbruch Bf" v="foot_way"/>
+	</way>
+	<way id="35713490" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003571"/>
+		<nd ref="00003490"/>
+		<tag k="Heinsberg, Oberbruch Bf" v="foot_way"/>
+	</way>
+	<way id="35033504" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003503"/>
+		<nd ref="00003504"/>
+		<tag k="Heinsberg, Kreishaus Bf" v="foot_way"/>
+	</way>
+	<way id="35933594" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003593"/>
+		<nd ref="00003594"/>
+		<tag k="Heinsberg, Randerath Bf" v="foot_way"/>
+	</way>
+	<way id="20032012" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002003"/>
+		<nd ref="00002012"/>
+		<tag k="Alsdorf, Mariadorf Bf" v="foot_way"/>
+	</way>
+	<way id="20072012" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002007"/>
+		<nd ref="00002012"/>
+		<tag k="Alsdorf, Mariadorf Bf" v="foot_way"/>
+	</way>
+	<way id="20132012" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002013"/>
+		<nd ref="00002012"/>
+		<tag k="Alsdorf, Mariadorf Bf" v="foot_way"/>
+	</way>
+	<way id="23932341" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002393"/>
+		<nd ref="00002341"/>
+		<tag k="Düren, Kuhbrücke Bf" v="foot_way"/>
+	</way>
+	<way id="47604765" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004760"/>
+		<nd ref="00004765"/>
+		<tag k="Mönchengladbach, Genhausen Bf" v="foot_way"/>
+	</way>
+	<way id="38733866" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003873"/>
+		<nd ref="00003866"/>
+		<tag k="Hückelhoven, Brachelen Bf" v="foot_way"/>
+	</way>
+	<way id="50325031" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005032"/>
+		<nd ref="00005031"/>
+		<tag k="Niederzier, Selhausen Bf" v="foot_way"/>
+	</way>
+	<way id="65416542" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006541"/>
+		<nd ref="00006542"/>
+		<tag k="Zülpich, Nemmenich Bf" v="foot_way"/>
+	</way>
+	<way id="12561260" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001256"/>
+		<nd ref="00001260"/>
+		<tag k="Aachen, Eilendorf Bf" v="foot_way"/>
+	</way>
+	<way id="12641260" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001264"/>
+		<nd ref="00001260"/>
+		<tag k="Aachen, Eilendorf Bf" v="foot_way"/>
+	</way>
+	<way id="12831260" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001283"/>
+		<nd ref="00001260"/>
+		<tag k="Aachen, Eilendorf Bf" v="foot_way"/>
+	</way>
+	<way id="12871260" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001287"/>
+		<nd ref="00001260"/>
+		<tag k="Aachen, Eilendorf Bf" v="foot_way"/>
+	</way>
+	<way id="35893588" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003589"/>
+		<nd ref="00003588"/>
+		<tag k="Heinsberg, Porselen Bf" v="foot_way"/>
+	</way>
+	<way id="35903588" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003590"/>
+		<nd ref="00003588"/>
+		<tag k="Heinsberg, Porselen Bf" v="foot_way"/>
+	</way>
+	<way id="57855786" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005785"/>
+		<nd ref="00005786"/>
+		<tag k="Stolberg, Mühlener Bf" v="foot_way"/>
+	</way>
+	<way id="57875788" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005787"/>
+		<nd ref="00005788"/>
+		<tag k="Stolberg, Altstadt Bf" v="foot_way"/>
+	</way>
+	<way id="19751986" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001975"/>
+		<nd ref="00001986"/>
+		<tag k="Alsdorf, Annapark Bf" v="foot_way"/>
+	</way>
+	<way id="50335036" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005033"/>
+		<nd ref="00005036"/>
+		<tag k="Nörvenich, Binsfeld Bf" v="foot_way"/>
+	</way>
+	<way id="34373438" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003437"/>
+		<nd ref="00003438"/>
+		<tag k="Heinsberg, Dremmen Bf" v="foot_way"/>
+	</way>
+	<way id="57915792" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005791"/>
+		<nd ref="00005792"/>
+		<tag k="Stolberg, Rathaus Bf" v="foot_way"/>
+	</way>
+	<way id="32713272" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003271"/>
+		<nd ref="00003272"/>
+		<tag k="Geilenkirchen, Lindern Bf" v="foot_way"/>
+	</way>
+	<way id="49004919" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004900"/>
+		<nd ref="00004919"/>
+		<tag k="Nideggen, Zerkall Bf" v="foot_way"/>
+	</way>
+	<way id="45054487" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004505"/>
+		<nd ref="00004487"/>
+		<tag k="Kreuzau, Üdingen Bf" v="foot_way"/>
+	</way>
+	<way id="62216208" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006221"/>
+		<nd ref="00006208"/>
+		<tag k="Wegberg, Arsbeck Bf" v="foot_way"/>
+	</way>
+	<way id="62336234" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006233"/>
+		<nd ref="00006234"/>
+		<tag k="Wegberg, Dalheim Bf" v="foot_way"/>
+	</way>
+	<way id="10141016" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001014"/>
+		<nd ref="00001016"/>
+		<tag k="Aachen, Schanz Bf" v="foot_way"/>
+	</way>
+	<way id="10151016" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001015"/>
+		<nd ref="00001016"/>
+		<tag k="Aachen, Schanz Bf" v="foot_way"/>
+	</way>
+	<way id="41474138" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004147"/>
+		<nd ref="00004138"/>
+		<tag k="Jülich, Broich Bf" v="foot_way"/>
+	</way>
+	<way id="35313532" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003531"/>
+		<nd ref="00003532"/>
+		<tag k="Heinsberg, Horst Bf" v="foot_way"/>
+	</way>
+	<way id="19231924" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001923"/>
+		<nd ref="00001924"/>
+		<tag k="Alsdorf, Busch Bf" v="foot_way"/>
+	</way>
+	<way id="19251924" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001925"/>
+		<nd ref="00001924"/>
+		<tag k="Alsdorf, Busch Bf" v="foot_way"/>
+	</way>
+	<way id="19271924" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001927"/>
+		<nd ref="00001924"/>
+		<tag k="Alsdorf, Busch Bf" v="foot_way"/>
+	</way>
+	<way id="49094911" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004909"/>
+		<nd ref="00004911"/>
+		<tag k="Nideggen, Brück Bf" v="foot_way"/>
+	</way>
+	<way id="49124911" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004912"/>
+		<nd ref="00004911"/>
+		<tag k="Nideggen, Brück Bf" v="foot_way"/>
+	</way>
+	<way id="28492836" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002849"/>
+		<nd ref="00002836"/>
+		<tag k="Eschweiler, West Bf" v="foot_way"/>
+	</way>
+	<way id="28572836" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002857"/>
+		<nd ref="00002836"/>
+		<tag k="Eschweiler, West Bf" v="foot_way"/>
+	</way>
+	<way id="38953896" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003895"/>
+		<nd ref="00003896"/>
+		<tag k="Hückelhoven, Baal Bf" v="foot_way"/>
+	</way>
+	<way id="46534654" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004653"/>
+		<nd ref="00004654"/>
+		<tag k="Linnich, Tetz Bf" v="foot_way"/>
+	</way>
+	<way id="46564654" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004656"/>
+		<nd ref="00004654"/>
+		<tag k="Linnich, Tetz Bf" v="foot_way"/>
+	</way>
+	<way id="10841086" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001084"/>
+		<nd ref="00001086"/>
+		<tag k="Aachen, West Bf" v="foot_way"/>
+	</way>
+	<way id="10851086" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001085"/>
+		<nd ref="00001086"/>
+		<tag k="Aachen, West Bf" v="foot_way"/>
+	</way>
+	<way id="42114136" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004211"/>
+		<nd ref="00004136"/>
+		<tag k="Jülich, Nord Bf" v="foot_way"/>
+	</way>
+	<way id="28272828" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002827"/>
+		<nd ref="00002828"/>
+		<tag k="Eschweiler, Hbf" v="foot_way"/>
+	</way>
+	<way id="28552828" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002855"/>
+		<nd ref="00002828"/>
+		<tag k="Eschweiler, Hbf" v="foot_way"/>
+	</way>
+	<way id="57655766" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005765"/>
+		<nd ref="00005766"/>
+		<tag k="Stolberg, Hbf" v="foot_way"/>
+	</way>
+	<way id="10051008" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001005"/>
+		<nd ref="00001008"/>
+		<tag k="Aachen, Hbf" v="foot_way"/>
+	</way>
+	<way id="10071008" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001007"/>
+		<nd ref="00001008"/>
+		<tag k="Aachen, Hbf" v="foot_way"/>
+	</way>
+	<way id="10611008" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001061"/>
+		<nd ref="00001008"/>
+		<tag k="Aachen, Hbf" v="foot_way"/>
+	</way>
+	<way id="47114738" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004711"/>
+		<nd ref="00004738"/>
+		<tag k="Merzenich, Bf" v="foot_way"/>
+	</way>
+	<way id="47124738" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004712"/>
+		<nd ref="00004738"/>
+		<tag k="Merzenich, Bf" v="foot_way"/>
+	</way>
+	<way id="35113512" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003511"/>
+		<nd ref="00003512"/>
+		<tag k="Heinsberg, Bf" v="foot_way"/>
+	</way>
+	<way id="22852286" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002285"/>
+		<nd ref="00002286"/>
+		<tag k="Düren, Bf" v="foot_way"/>
+	</way>
+	<way id="34073409" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003407"/>
+		<nd ref="00003409"/>
+		<tag k="Heimbach, Bf" v="foot_way"/>
+	</way>
+	<way id="34103409" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003410"/>
+		<nd ref="00003409"/>
+		<tag k="Heimbach, Bf" v="foot_way"/>
+	</way>
+	<way id="59515952" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005951"/>
+		<nd ref="00005952"/>
+		<tag k="Übach-Palenberg, Bf" v="foot_way"/>
+	</way>
+	<way id="32193220" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003219"/>
+		<nd ref="00003220"/>
+		<tag k="Geilenkirchen, Bf" v="foot_way"/>
+	</way>
+	<way id="32253220" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003225"/>
+		<nd ref="00003220"/>
+		<tag k="Geilenkirchen, Bf" v="foot_way"/>
+	</way>
+	<way id="36893690" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003689"/>
+		<nd ref="00003690"/>
+		<tag k="Herzogenrath, Bf" v="foot_way"/>
+	</way>
+	<way id="45654566" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004565"/>
+		<nd ref="00004566"/>
+		<tag k="Langerwehe, Bf" v="foot_way"/>
+	</way>
+	<way id="60756074" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006075"/>
+		<nd ref="00006074"/>
+		<tag k="Vettweiß, Bf" v="foot_way"/>
+	</way>
+	<way id="26472648" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002647"/>
+		<nd ref="00002648"/>
+		<tag k="Erkelenz, Bf" v="foot_way"/>
+	</way>
+	<way id="44444445" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004444"/>
+		<nd ref="00004445"/>
+		<tag k="Kreuzau, Bf" v="foot_way"/>
+	</way>
+	<way id="44464445" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004446"/>
+		<nd ref="00004445"/>
+		<tag k="Kreuzau, Bf" v="foot_way"/>
+	</way>
+	<way id="63396340" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00006339"/>
+		<nd ref="00006340"/>
+		<tag k="Wegberg, Bf" v="foot_way"/>
+	</way>
+	<way id="41834188" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004183"/>
+		<nd ref="00004188"/>
+		<tag k="Jülich, Bf" v="foot_way"/>
+	</way>
+	<way id="41894188" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00004189"/>
+		<nd ref="00004188"/>
+		<tag k="Jülich, Bf" v="foot_way"/>
+	</way>
+	<way id="34903492" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003490"/>
+		<nd ref="00003492"/>
+		<tag k="Heinsberg, Oberbruch Grebben Andreasstraße" v="foot_way"/>
+	</way>
+	<way id="36253624" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003625"/>
+		<nd ref="00003624"/>
+		<tag k="Heinsberg, Uetterath Kirche" v="foot_way"/>
+	</way>
+	<way id="27662762" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002766"/>
+		<nd ref="00002762"/>
+		<tag k="Erkelenz, Oerath Oerather Mühlenfeld" v="foot_way"/>
+	</way>
+	<way id="29732974" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002973"/>
+		<nd ref="00002974"/>
+		<tag k="Eschweiler, St. Jöris Bf" v="foot_way"/>
+	</way>
+	<way id="29762974" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002976"/>
+		<nd ref="00002974"/>
+		<tag k="Eschweiler, St. Jöris Bf" v="foot_way"/>
+	</way>
+	<way id="31493150" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003149"/>
+		<nd ref="00003150"/>
+		<tag k="Gangelt, Langbroich Krings" v="foot_way"/>
+	</way>
+	<way id="39353932" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003935"/>
+		<nd ref="00003932"/>
+		<tag k="Hückelhoven, Haagstraße" v="foot_way"/>
+	</way>
+	<way id="55475546" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005547"/>
+		<nd ref="00005546"/>
+		<tag k="Stolberg, Breinig Bf" v="foot_way"/>
+	</way>
+	<way id="10831084" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001083"/>
+		<nd ref="00001084"/>
+		<tag k="Aachen, Bendplatz (Kühlwetterstraße)" v="foot_way"/>
+	</way>
+	<way id="10851084" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001085"/>
+		<nd ref="00001084"/>
+		<tag k="Aachen, Bendplatz (Kühlwetterstraße)" v="foot_way"/>
+	</way>
+	<way id="10861084" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001086"/>
+		<nd ref="00001084"/>
+		<tag k="Aachen, Bendplatz (Kühlwetterstraße)" v="foot_way"/>
+	</way>
+	<way id="53575356" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005357"/>
+		<nd ref="00005356"/>
+		<tag k="Selfkant, Wehr B56" v="foot_way"/>
+	</way>
+	<way id="35553560" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003555"/>
+		<nd ref="00003560"/>
+		<tag k="Heinsberg, Kempen Kämpchenstraße" v="foot_way"/>
+	</way>
+	<way id="29742976" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002974"/>
+		<nd ref="00002976"/>
+		<tag k="Eschweiler, St. Jöris Bahnhof (Bus)" v="foot_way"/>
+	</way>
+	<way id="38453848" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003845"/>
+		<nd ref="00003848"/>
+		<tag k="Kerkrade, Bleijerheide Pricksteenweg" v="foot_way"/>
+	</way>
+	<way id="23402339" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00002340"/>
+		<nd ref="00002339"/>
+		<tag k="Düren, Jesuitenhof (Hallenbad)" v="foot_way"/>
+	</way>
+	<way id="19111912" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00001911"/>
+		<nd ref="00001912"/>
+		<tag k="Alsdorf, Bettendorf Baesweilerstraße" v="foot_way"/>
+	</way>
+	<way id="52435248" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005243"/>
+		<nd ref="00005248"/>
+		<tag k="Schleiden, Morsbach Vogelsang I P Walberhof" v="foot_way"/>
+	</way>
+	<way id="52155226" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00005215"/>
+		<nd ref="00005226"/>
+		<tag k="Roetgen, Pilgerbornstraße" v="foot_way"/>
+	</way>
+	<way id="38153816" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003815"/>
+		<nd ref="00003816"/>
+		<tag k="Herzogenrath, Forstumer Straße" v="foot_way"/>
+	</way>
+	<way id="39273934" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003927"/>
+		<nd ref="00003934"/>
+		<tag k="Hückelhoven, Rathaus (Parkhofstraße)" v="foot_way"/>
+	</way>
+	<way id="39313934" version="1" changeset="203496" user="80n" uid="1238" visible="true" timestamp="2019-10-02T11:40:26Z">
+		<nd ref="00003931"/>
+		<nd ref="00003934"/>
+		<tag k="Hückelhoven, Rathaus (Parkhofstraße)" v="foot_way"/>
+	</way>
+</osm>

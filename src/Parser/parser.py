@@ -1,9 +1,9 @@
-from src.Models.StopsNetwork import StopsNetwork
 from src.Parser.lineTypes import ParseLine
-stopsNetwork = StopsNetwork()
+from src.Parser.toOSM import parseToOSM
+import os
 
-def parse(directory):
-    parser = ParseLine(stopsNetwork)
+def parse(directory, network):
+    parser = ParseLine(network)
 
     parseFile(directory + '\\bahnhof', parser.bahnhof, 'bus stops')
     parseFile(directory + '\\bfkoord', parser.bfkoord, 'coordinates')
@@ -13,7 +13,17 @@ def parse(directory):
     parseFile(directory + '\\umsteigz', parser.umsteigz, 'track change times')
     parseFile(directory + '\\metabf', parser.metabf, 'footpaths')
     parseFile(directory + '\\bhfart', parser.bhfart, 'stops modes')
+    parseFile(directory + '\\bfprios', parser.bfprios, 'stops priorities')
+    parseFile(directory + '\\bitfeld', parser.bitfeld, 'timetables')
+
+    #allFiles = os.listdir(directory)
+    #for file in allFiles:
+    #    if file.endswith('.LIN'):
+    #        parseFile(directory + '\\' + file, parser.line, 'lines for line: ' + file.replace('.LIN', ''))
+
     print('Finished parsing')
+
+    parseToOSM(network)
 
 def parseFile(fileName, parser, log):
     file = open(fileName, 'r')
